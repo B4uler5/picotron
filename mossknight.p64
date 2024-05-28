@@ -1,0 +1,94 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTI4IDIyOjQyOjE5Iixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSIscnVudGltZT00LHN0b3JlZD0iMjAyNC0wMy0yOSAyMzoxNjo1MCIsd29y
+a3NwYWNlcz17e2xvY2F0aW9uPSJtYWluLmx1YSMyIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0
+aW9uPSJnZngvMC5nZngiLHdvcmtzcGFjZV9pbmRleD0yfSx7bG9jYXRpb249Im1hcC8wLm1hcCIs
+d29ya3NwYWNlX2luZGV4PTN9LHtsb2NhdGlvbj0ic2Z4LzAuc2Z4Iix3b3Jrc3BhY2VfaW5kZXg9
+NH19XV1sejQABAAAAAMAAAAwbmls
+:: gfx/
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSIsc3RvcmVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIl1dbHo0AAQAAAADAAAA
+MG5pbA==
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQyIixtb2RpZmllZD0iMjAyNC0w
+My0yOSAyMzoxNjo1MCIscmV2aXNpb249NDldXWx6NADTAgAAkEEAAP8Te1swXT17Ym1wPXB4dQBD
+ICAgBPAR8Q4QAfAMARABAPEKAAcAnwC7APEK8Q7wESxmbGFncz0wLHBhbl94PS0wLjEyNQ0A_gB5
+PTAuMjUsem9vbT04fSwAAVgRHxURHgIAPwEeERAACk4RDhEeEAAPQgD-qycuASAAD0gCIV8QEATw
+8DkA------------------------------------------------------------------------
+qwDVOfMKHR8bE5APFATQHxsjLxNgDxQE4A8bIz8TUAoA--BfExAPEQAPFATwABNQHxMAHxEGBPAB
+I28THxEm8AETAA8TAA4ALg8RJvADAwAOAA4AHg0m8AAvGwADbibwABwTYA0WHBPAHBMeADwOBhwj
+HqAcEz4MIx4ME06QDBNODAM_E16QA04ADBM_A26gHBMQE14ALAOwHBMgXBMADCOwDBMOIAxDHgAj
+DrADLhANDCM_AAMusF4GE14APsBODAYTPhA_0C4MAw4APAMQDB4M0A0eDAMOQx4QAwzQHQYcAw4D
+XgAzsB0mAx5MEwA_sA0mAB4cMx4QHsAmMBMeAD7wBwMeIC7wBywgHBPwBQ4jMCPwBC4TMAMu8AI_
+EzADPoBXARMfNpABJg87AqgfwDoC8m8DDA4gDhxCAjzhICAEcA9AD3kPPhAPYMBDAUAfGxOAWQEB
+bQERUBMAAW4BFCBkAQFyAQNlAQBwAQFmATAjbxNhARQCbgEDYQECbwH0FibwAB0TAANuBh0TwB0T
+HgA9DgYdIx6gHRM_DSMeDRNOkA0TTg1nARENZwERHWcB9QItA7AdEyBdEwANI7ANEw4gDWcBOg8R
+DWgBEw1oAeINAw4APQMQDR4N0AweDWgBUw3QHAYdaAFQHCYDHk1oAV8MJgAeHWgBAa8NDiAOHfAH
+LSAdaAEqDwEF-1IPHQT-PFBtPTZ9fQ==
+:: map/
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSIsc3RvcmVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIl1dbHo0AAQAAAADAAAA
+MG5pbA==
+:: map/0.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQyIixtb2RpZmllZD0iMjAyNC0w
+My0yOSAyMzoxNjo1MCIscmV2aXNpb249NDBdXWx6NACBAAAAYRAAAPAIe3tibXA9dXNlcmRhdGEo
+ImkxNiIsMzIDAC8iMAEA------------zB4xBAAPAQC2HzEEAC4PAQD------PELIiksaGlkZGVu
+PWZhbHNlLHBhbl94PS0xNDQLAPIBeT0tMTM5LHRpbGVfaD0zMgoAEHcKALB6b29tPTAuMjV9fQ==
+:: sfx/
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSIsc3RvcmVkPSIyMDI0LTAzLTI4IDIxOjA5OjQxIl1dbHo0AAQAAAADAAAA
+MG5pbA==
+:: sfx/0.sfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTI4IDIxOjA5OjQyIixtb2RpZmllZD0iMjAyNC0w
+My0yOSAyMzoxNjo1MCIscmV2aXNpb249MjNdXWx6NAAQAQAAUQcAAPAncHh1AAMoAAADAAQPQBAC
+DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PEADwAA0PEQ8SDxMPFA8VDxYP
+FxMA8QEPGA8ZDxoPGw8cDx0PHg8fFADxACAPIQ8iDyMPJA8lDyYPJxQA8QAoDykPKg8rDywPLQ8u
+Dy8UAPEAMA8xDzIPMw80DzUPNg83FAD-BTgPOQ86DzsPPA89Dz4PPwAP--D-AQDr-ydaARAGDyAQ
+ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP85H-8BANy-
+_A9AAA1A--_w8HAKAP--ZB--AQCXUP----8f
+:: main.lua
+--[[pod_format="raw",created="2024-03-28 21:09:42",modified="2024-03-29 23:16:50",revision=46]]
+anims={
+ idle={fr=15,255,254,253},
+ walkright={fr=5,4,3,4,5},
+}
+
+function _init()
+ player={ x=64,y=64,
+  update=playerupdate,       --custom update function for the player object, described below _init
+  spr=1,draw=objdraw }
+ player.play="idle"          --start a new animation. this is all you need for the animate() function
+ add(player)            --bullets and the player are both updated and drawn together!
+ map()
+end
+function playerupdate(p)
+ if(p.state!="punch" and btnp(5)) p.play="punch" --you can only punch when not already punching
+ animate(p)                  --you can animate any object just by setting play to something
+ return true                 --still alive, so return true
+end
+function animate(p)
+ if p.state != p.play then   --start a new animation
+  p.state = p.play
+  p.animindex = 1            --start with the first frame in the animation table
+  p.time = 0                 --reset the timer
+ elseif #anims[p.state] > 1 then --continue playing an animation with multiple frames
+  p.time += 1
+  if p.time >= anims[p.state].fr then --the current frame has been on screen for long enough
+   p.time = 0
+   p.animindex = (p.animindex % #anims[p.state]) + 1 --go to the next frame
+   --this loops animations. "punch" becomes (current index % 3) + 1, so 1,2,3,1,2,3,1...
+   if p.animindex == 1 and anims[p.state].next then --at the moment the animation restarts,
+    p.play = anims[p.state].next                    --play something else instead
+    p.state = p.play
+   end
+  end
+ end
+ p.spr = anims[p.state][p.animindex] --lastly, update the current sprite number drawn to screen
+end
+:: [eoc]

@@ -1,0 +1,133 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjQ4OjQ3Iixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+OSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idW50aWwubHVhIzYiLHdvcmtzcGFjZV9p
+bmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjNSIsd29ya3NwYWNlX2luZGV4PTF9LHts
+b2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5t
+YXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNmeC8wLnNmeCIsd29ya3NwYWNlX2lu
+ZGV4PTR9fV1dbHo0AAQAAAADAAAAMG5pbA==
+:: gfx/
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
+NS0wNSAyMzowMzowOCIscmV2aXNpb249MjYzXV1sejQAdwEAACk0AAD2C3tbMF09e2JtcD1weHUA
+QyAQEARTHxtTHjMeBAAXswwADxAAEfMAUyxmbGFncz0wLHBhbl94CADKeT0wLHpvb209OH0scQD6
+H2AXsBcQF3AXUBdQBwAXEBcAB1AHCBAXIAdQFwAIFxAXYAZXBnAGEBcQBnAGIAYGAP8EgBYAJpAG
+ABawBhAGoBYQBtAWYH4AMLkgFxAIB1AXEBcIAH4AORAGIAYAgIAmABawFgAGfgBVsAYQFqB_AB8x
+fgAqESB9AA-6ABVvAAbABvAKeQBaBPUAT_AG8AV5ACaAMBeQFwAHEBdzABEwBAAfUAIAA0EHABcw
+AgAAmwBPcFewF_QBGo8gIATw----8zQAGV8QEATw8DEATQ-4AjEA9AIf4PYCdh8w9gJlHzD2AmUP
+TgIXDzEArw_oBTdPABbwB64AHg8xAP----------------------------------------------
+-------------5NQbT04fX0=
+:: map/
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+:: map/0.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
+NS0wNSAyMzowMzowOCIscmV2aXNpb249MjUyXV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDMyAwAvIjABAP--------------------vxCCIpLGhpZGRlbj1mYWxzZSxwYW5feD0w
+CADSeT0wLHRpbGVfaD0xNgoAEHcKAIB6b29tPTJ9fQ==
+:: sfx/
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
+NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+:: sfx/0.sfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
+NS0wNSAyMzowMzowOCIscmV2aXNpb249MjQ2XV1sejQAqQAAAJIXAAD-LHB4dQADKAAABAAED0AQ
+Ag4AAaABIAKgDgAPEAAN8MoBAgMEBQYHAA--kAgJCgsPDA8NDw4PDwAP--D-AQDr-yfSARAGDyAQ
+ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP------vR--
+AQCsv8gPQAANQP--sPBwCgD-------------------_EUP_w8P85
+:: character.lua
+--[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-05-05 23:03:08",revision=48]]
+function move()
+	if btn() != 0 then
+		--right
+		if btn() == 2 then
+			c_y = abs(c_y + 0.45)
+			c_x = c_x + 1
+		end
+		--left
+		if btn() == 1 then
+			c_y = abs(c_y - 0.45)
+			c_x = c_x - 1 
+		end
+		--up
+		if btn() == 4 then
+			c_y = abs(c_y - 0.50)
+			c_x = abs(c_x + 1)
+		end
+		--down
+		if btn() == 8 then
+			c_y = abs(c_y + 0.50)
+			c_x = abs(c_x - 1) 
+		end
+		-- up + right
+		if btn() == 6 then
+			c_x = c_x + 1
+		end
+		-- down + left
+		if btn() == 9 then
+			c_x = c_x - 1
+		end
+		-- down + right
+		if btn() == 10 then
+			c_y = c_y + 1
+		end
+		if btn() == 5 then
+			c_y = c_y - 1
+		end
+	end
+end
+:: main.lua
+--[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-05-05 23:03:08",revision=358]]
+include './util.lua'
+include './character.lua'
+
+function _init()
+    window{
+        width  = 320,
+        height = 200,
+        resizeable = true,
+        title = "Gut Wound"
+    }
+    c_x = 240
+    c_y = 135
+end
+
+function _draw()
+	cls()
+	map()
+	spr(5,c_x,c_y)
+	if(btn() != 0) then
+		print(coalesce(btn(),"null"))
+	end
+	move()
+end
+
+function _update()
+end
+
+:: until.lua
+--[[pod_format="raw",created="2024-05-03 22:22:52",modified="2024-05-05 23:03:08",revision=190]]
+function coalesce(a, b)
+	if a == nil then
+		return b
+	else
+		return a
+	end
+end
+:: util.lua
+--[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-05-03 22:22:11",revision=42]]
+function coalesce(a, b)
+	if a == nil then
+		return b
+	else
+		return a
+	end
+end
+:: [eoc]

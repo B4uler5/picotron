@@ -1,0 +1,24 @@
+--[[pod_format="raw",created="2024-05-06 20:18:25",modified="2024-05-06 21:00:30",revision=1]]
+Gutwound
+
+Story Driven Survival Game
+
+Core gameplay
+Exploration of Tower while managing many ailments
+Deal with gut wound by:
+	- stitching wound
+	- applying antiseptic
+	- taking pain killers
+	- taking antibiotics
+	- drinking lots of water
+	- moving less.
+Collect items to heal by searching rooms/storage
+Find interesting old world items like:
+	- wind up grammerphone with records
+	- vcr attached to back up generator
+	- etc
+	
+Design Challenges:
+	- Why is it fun?
+	- How long should it be?
+	- What's the bloody story?
