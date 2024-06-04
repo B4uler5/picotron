@@ -6,109 +6,109 @@ version 2
 :: sfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSIscmV2aXNpb249MjE2Nl1dbHo0ABcTAABDZAAA8xh7WzBdPXtibXA9cHh1
+Ni0wMyAyMjoxNzowMSIscmV2aXNpb249MjYwMF1dbHo0AP4SAADxYQAA8xh7WzBdPXtibXA9cHh1
 AEMgICAE-yD----zLGZsYWdzPTAscGFuX3gIAMx5PTAsem9vbT03fSw1AFUNHxcPEgcAnwwPFw8g
 DxIPFwsAfmUNHxf-IA4FAB4NJQAPkwBhIw8gcQEfMXEBFvYBEa8XTyCvFz8gDxevEg8XLwgAdxKv
 IA8SLxcIABsXCAAAGAAaIAgAAY8AHxcMAAAACgAeIAwADzAA--8PANQCHw8EACgPEAMcIg8SzgMe
 EtUDDwsAewqoAA_vAHgCiwAPhwT-WlAPIPEBjicA8Q8ODQ8SAf0BAX4MDg0OAR3uHQFuDA0ODQEN
 -gENAW4VAAMLAA8WAAdUDw39AQsXABX7FwAfCxYAAnMbLg1uDS4bGQC0Cy4NDg1ODQ4NLgs2AFQ_
-DW4NPjkAMxvtGxgAAUMAJQ4NAgADLgIfMy4C-1Ql9wEuAkEH-QEHLgJRBx3uHQedARAHDQIRB7IB
-BAsADxYABwEuAgQXABX7FwAfCxYAAgMuAgMZAAcuAgQ2AAIuAgMgADMb7RsYAAFDAC8ODS4CJR-w
-iAodXxAQBPDwMQALHDllAKH-FxKvID8XzyAvZQERj2kBAbwGA30Bfx8XzyAfF_8IACAPUAADIi8X
-cAAz-xck2gEPBAAAMi8X35EADxwAAgBNABG-TQCZ-xcA-yAALxefFgACbwARfwwAAkoAU78g-xcE
-BQAEEgAZHzIAABAAP-8gAAkAIAhGAAp4AH8-F58g-xcSkgELHzZLDE9EDR8XAQYAQAw9-gwMBQ8G
-AGAuDS1dBw8KAQpWDQ8gDQ4CAKH9I6FNoT0BrgEtBAATrQQAM64BLgQAAKIFBAYAALgFBAYADxgA
--T8dDg0CAAoPpwEMD3sKTREBSAACBgAHPwIPBgBgPy3_DQwBHPYfAR3vFx0BrQEO-QEOAZ8gDQEd
-7B0BnA0BDTwObA48DQGtAQ0sDgwOTA4MDiwNwRYAAycAATcAQJwN8QUzAJZ8DQENLA0BDbwMAPYA
-3QGdAU3xEd0B-QABHQwNAgB2AQ3cDQENDAIAER0SABLdGAARHAIAJCwNJgAADgASPA4AEB0MACBM
-DVEAARcAQVwN8QIiABFsFAAhHRx7AAJFABWMQQASnAoAIx2sEgAfvAgAD2-9AAHd8RAMBRzzBw8X
-He4dDq0e-QEenyANDh3sHQ6cDQ43ATcOrQ5NAScOoRgAAikAADcAP5wN-k0B9Q9QCBAfNlAIMRGP
-_QYVP6sHHW8dBwIMAAAIABOvewcfLwwAIAhcAAIUADcvF4-bB1EPIO8Xv4QAE687CAAoAFN-F08g
-LxAAMw8XvwgABKwAAFkLAhAABDAAFR8MABVvDAAXD8wABkAAF28MAAORCAs4ABffLAC0-xcJbyAv
-F-8gAy8iAGQS-yABDxIzAD--IAUJAAULLAAFRgA2-xcJxQA0-xcEbgBRTyA-F__SABG-PAAZz7oA
-AVAAGxcQAAMkAAAMABc-HAAUP9oJEBdhAB8RngolHzFOAgQPswIgDzQAAw9oACkPNAB5D4MDIfEC
-AV0BXQEtAc0BDT8gDQENPg35ByUNrgwAPA8VDhQAIwweEgAzDg2OFAAUPhIAWAyODQFdSAAXcQwA
-LgFdYgAEEABTTg0MPg2OANANTh0MLg3xAw1OHD4N7A8BLgAt7g0IABDNBgAT4QoAQ24NDF4bAFNu
-DA0MTgwAFX4WAB-uCAA7T-0BAc1YBR4B4gAn-QFvARPuCAAABAAgTi0uDgYQAGcuHS8TDQwSAJId
-Dg0cDR4MDU5MAZEdHA0MHgwuDE5nATAMDQ5LDhKeHAAgDQEpABkMowFILgwNDBAAGj4fABlOHQAf
-7gwADyT9AQsALvEDFAABKwAA8AAHpQELRAFkDS4dDxWODABDCx0LfgwAJD4bFgAf7ggAD0-NAf0B
-4gZPDzQAFA_TAx4PMQCNALYC8wT9CBFNAQ3-IAYNEQ0uDQENnh2eCgBkjg0fEw2ODQBQDB4MDR69
-AwIQAFXODB0cDQ0ANQ0cHg0AY74dPgwNHg0AY64NHE4MLQwAUAx_HB0BCwCw-QccHS4N8QkNHC7j
-ASOtASwAVgENfg0MDQARboUJBA4AZy4NDh0MDhEAEB5UCRceEQAwDg0MhwAHEQApDC4QAABJAwgx
-AFkuDQwODBEAJwxODgAfjgwAFxTNCgAd4RIACygAP60BTdECDR81WwQAM70BrVoEE55OAAGKAycd
-Pg4ASB4dHxMQAABSBBhOEAABRwQKIgBKDB4MPiMAGm4gAAMPAACCAHANjg2RDA2BDwAh-QMWAFIN
-fg1_DQoAVR4NLh0MDQAArgQjHI4OABAOVwsDBQEA2AQSvgsAMD0M3QgAIPEFDQA0nQF9UgBPAQ1e
-DQwAGhB9HAFAfg3xBg0AIf0EFABPDf4CDQkAAE_dAf0EfwEODxwEIB81ugMeDzEAvgCoAok9Ad0B
-rQE9AbMRER2pASEdDgQABgIABQ4AEB0xABwOMAAACAAKMAAlDQ4CAA8yAAIAYgAV3TQAVB0BPfEA
-SQA8jQE9PwARbrQCBTkAARAJA-cNER4TAARGAAEVA0YMDQwOMQAAGAAjDR48BC8eDVsADR5uVAAZ
-jUwAXx0OLQ4dSgAAWQ4tDi0OTAAGEgAITgAHQAAPUgAaBBAAFj1OAAKOA0D9ASGtuQnyAh4dPh3h
-DT4NDxMdGx0ODRvdTwCxCw4bDg0bDQsODQvdBJMOCx0uHQseCx7tBFIeGy4bXgwADksJD-AEEQA2
-AE4BDe8gEQgPxwkcIA2uwAgFDAANIwAhDe6qBQ7GCA8IAEwPFwESD8EDHg_FBPVznQHtAQ0fIPgF
-Es5-Aw8MAEEBaQAxHg3xVwgA_wQACAATDeAGDwwAZQGFBUDxEf0PbRccDQUAL-0PeAINHzSDAR4P
-MQD--60f8jEAHS--HMUAHg8xAP--------------1fQVQK8XIB6YDhAOuA4ADsgOAA4YDyAIDRgN
-CA0oHjgNOA04HigNEAAR2AIAMTgNCAIAECgtAAUMAABBAL8gDpgOQB5YHnBeQIYAPDUoDxiIALMI
-HB6oLB6YPB6ITIwANQwNLIwA-wUMDTwOAA5IfA4QDiiMDiAenA5Aro0AIdNoLxgOEA54PQ4ADnhN
-kQDxBAwYDA0MLR44DBgdDD0eKAwIDB0RANFIjR44nR4orR4YHQANAgA0LR4ICwAwPR7dAgAv-gGG
-ABx0-xcB3xgfFwQAky8YDyAPGA8gHwgAgi8YHxc-GA8gBAAPIAADF98EABM-GAAXDyAABDQABAQA
-Fz8wAE-fGP8XswAatHcGBP8XaP8gZR8XBQC8DxcADv8gYw4g-mO3EfMALTQuMDU5NTIzODA5NTI0
-WQCiLTguNzE5MDQ3NgYAAmgAHzLlAh0vMTAyAGEBNwLxC58eDhAOvQ4ADs0OAA4dB10HLR4dJz0n
-HR4tDAAACwIwDb8g-xv_CpcMDQ4ADg0MdwwNDhAOHXwdDiAOnQ5AHl0-Aw98ADGAHQIevRIerSJ-
-ABECfwATAn8AEBIuAM58Ig4QDj1yDiAeDYIyAw_AABMgbx5FAHF9Mg4ADn1CgwD3CT0SByIeHScd
-EicSHi0HHTIHIh5Ngh49koUAIB4dgwC-Hg0SfCIe0h7S-gF7AB1A-xcB0joAwx4iB1IHIh4SJzIn
-EgwAABYAEAJqAO8CDZcNAh4SDXcNEh4ifWkAIS13RN4CDwUA-yQOFAQOggEP9wOf8gucDhAOvA4A
-Djw-IEwOAA4sDTwNPB48XTwePAoACAYAARYAIT8QqAb_BCwNOw0sDhAOPD08DiAOnA5AHlz-Aw_E
-ADExLA8QCAAhHBsHAMMMKx48XTsePA07DTuHAAAIAM88PUsOEA4siw4gHpsGBCWCfB8QDhAOjC2K
-ABAMQQeyLAs8Cz0ePFs9HjwKAAcGAOEsDVs9HhwdCz0LPR4MLQcAPk07TTIHDwsEFEDfEB8XBADx
-AE8QPyBPEB8XPxAPIDwOPwoAqV49Hxc9DjwOPRsGABBeCgAkPQ4GAJ9NPk0b3Rvd_wFtAh8PMgCz
-AcYB9wWbDhAOuw4ADksvIEsOAA5bDVseawQA-hxbDQkNSx5LDSkNOx47DUkNKw4ADisNSQ0bDhAO
-Ow0pDSsOIA47LSsOQB5b0AIPgwAtcUsDHmsNOxOFACEbI4YAETOGABMjhgAACAAAhgDPMw4QDisD
-LUMOIB6TzwIlcnsTDhAOiyOIACELM4kAYQtDHmsNUwQA4VsDDVMeSwMNCQ1DHjsDigAgKwODADEe
-GxMHACELMxUAX1MtQx7T0gIiydMe0x5TLyBDHmMNUwQAEVN1ABFDXwARM2wAAgYAH0NxACkv8PAy
-ALMBvAHxEZoOEA66DgAOyg4ADloPIFoeWg0KDUoeag1aHtoeOg0KAgCVKh4qjRoeGg0IAgCzCg4A
-DhqNCg4QDiokAJ4aDiAOmg5AHlrNAg_LACm1Og8ZHmoNOhweqiyPAFksHiqNHI8AEQyPADEcDgCP
-ABEM7gw_EA4q3QwPjwAYcHofGQ4QDoqlBSKKPZMA8QIKTR5aDAoMTR5qDF0eWn0eOjkiAN8MdSqM
-HR4aDAgCAJUNHhoNjB0eCi0iAA_uBSY0GR8XBAD3Am8ZDyBfGR8XXxkPIA8ZDyBPFAAAIAATPxgA
-BAQA9AMvGR8XLxmPIB8ZHxcfGQ8gCA4CABEPGgAgjh3uBQHzIX8OLRzdHN38DQPr9QqXDhAOtw4A
-DlcIVw4ADkcoRx5XKEceR0g3BAAAEAARZx4AEbcsAH4gDpcOQB5X9AIPcgAs8AcnDxIeR0gXHR5H
-SActHlcoBz0eZwgHZQ8gZ10vAL9tDhAON30OIB4HjeACJYF3HxIOEA6HLX4AIRc9fwCVTR5XKE0e
-R0g9BAD-ADcdKE0eJz0IXR4XvR4HzccCJzASHxcEAKBvEgheHxdeKE4dBAA1Tkg_BAAAEABSbghe
-Hd4CAB-9iwIgDzIA----C-8RCAgEIBZQF0APHA8QHxwgDi8QHhAeDS4QFw0nEF4QXgBNAB7yBB8g
-UAUPFUAFLiAFDgcuEAUnHhAJAAEFAB9OUQAf8gIWQAYQBmAGEBcQBiAHAAcQBwYAEAACAE8XIAdQ
-UQAd-wtAKDA4IAcoDxgQJwgOEDcGEDcGICcGMBcGQGsBPR82MQBdXxIE8P8RMgAc8CAwfxdgDnEO
-QA6RDiAOERUBRREOEA4BBQ8WDyAFLxYPIA8WBQEOEA4FHQ8gPQwdBR0AUB0FPQUdFQAwEX0RNQDw
-AV0RDjAOAnECDiAOAh8VURseE_ACGx0fGAsdKwIeKy0KLSEP-xAbFQgbFSsOIB5xHkAOcQ5QDiEe
-IQ5gDxMfERAZDxMwtwB2QAgPGFu2ADEIClu2ANAKOy0FDhAecQ0FDjAOvAAPuAAqL-AEcAFiD7QA
-QxAgtgAiHxYIAAK3AAAOABE-FgABuwChDQ8gBQwdDAUMDcAAfwUNBR0FDQXGAGAOfQMPMQBuD64D
-LjuxDhAEADAgDpFVASF-FVYBEZ1TAYy9Ah7dDgAOvXoDXy8TECwwfwBWEZ0RAkgecQwFRgNPLxMQ
-K44CHw8EAS4OAAEPfACODo8CDzEAnwdAAjCBDjBJBEQFQQ4g-QRxDxYBDSEOIPoEMB0BBQsAQAEd
-BR0iADARPUEwAJEtMQ5ADgIxHxU6BDAcEUxlAWAcHQ8YHTx7FRBNCBbAHBUIFSwOQB5hDmAOBACg
-IQ4hDnAfEQ8TAAUAH0CyPAwPsABBIFECBgBSHxUxHAKwAFAIDxg8ArEAMi0IC7MAzwscLQUOMB5R
-DQUOULYAMC-wBGcBWg_tAEQBVQYPrgABUQ0MBQwNsABPBQ0FDbMAADAbEUuzABAbswAQO8gUQE07
-DiBKBi8VK7MAIg8oAx4PMQCOD4oDYgFsARGABQAPrQCEsFAOYWAOQQ4BDxNgIgKfDxFQGw8TUAtA
-XAGMAsoCPiEOsM0CD1wBeiEOUGUAUCE_IQ5AqwA-MB8Rxwk-LzEwMgCRB3gBAEoID3gNWgBBC04e
-IQ6wRAsPtgCJICEeLgJvDmAJHxGAtgAdL-AEtwkuIC8TMwEvLDB7AGCPIR4vEw5gLIDGAh8PMgCx
-C3QCD0IBBUGfFQ4gwSMR3TwBMJ0vFm4MEBxvBCAeIcABnxEeKw5gLhAuMH8AnC-wBIAAIAW2Aj8R
-Hix3AJgOUAIPMgCjCzUCUBEfFgFNKQUQLRYFEC0JABIMCAAsAZ0ZBZEPFXELDiAOK1EXIAAsDBZr
-jBJAHQo7PVgCGB1YAh4p4QEPogCzL-AEowA0AFsGFjtaBkQdCBsdWgYPngA_QR0PIA3bKhgdogAi
-DQwVAB8NqgBfD74CDx82MQCOD64CKRETYQFwDxULClELGgkgALICsCoLKh4qLQgJCgs6IiC5HQkq
-Cz0OEA4LYQu5Ah4ncQEPrAC8L-AErQAsNB8VC6wAoh8YCh06HiotCS2pAL8IGh0qDiAOC3ELDqIA
-PwJoAzMADQBoAxYAaAMAOy4PrgBSUG09Nn19
+DW4NPjkAMxvtGxgAAUMAJQ4NAgADLgIfMy4CEf8KFhoEEPcBMAf-FwEHEAce7yAeBwAHDv0BDgcA
+BVAPDf4BDA8AEfwPABkMDgBwHC0ObQ4tHBgAkC0ODQ5NDg0OLR8AYAw9Dm0OPQoANxzuHC8AKe0c
+HQAPNQAGFu01AE-3BfAz4QAZTyAgBPA7CR1fEBAE8PAxAAscOWUAof8XEq8gPxfPIC9GAhGPSgIB
+bwUDXgJ-HxfPIB8X7wgAIA9QAAMiLxdwADP-FyS7Ag8EAAAyLxffkQAPHAACAE0AEb9NAJn-FwD-
+IAAvF58WAAJvABF-DAACSgBTvyD-FwQFAAQSABkfMgAAEAA--yAACQAgCEYACngAfz8XnyD-FxKS
+AQsfNv4KT0QNHxcBBgBADD3_DL8DDwYAYC4NLRAGDwoBClYNDyANDgIAof0joU2hPQGuAS0EABOt
+BAAzrgEuBAAAVQQEBgAAawQEBgAPGAD9Px0ODQIACg_nAQwPLglNEQFIAAIGAAc-Ag8GAGA-Lf4N
+DAEc8g8BHe8gHQGtAQ0_DxduDD4NAZ4NAQ0uDA4MTgwODC4PACE_DBoAEK2cB5DBDP0BDAGt8QUZ
+ABB_LABPDQENvgwAD8ndAZ0BTfER3QH9AAHPAUABDd4N6QEFAgARHRIAEt0YABEeAgAkLg0mAAAO
+ABI_DgAQHQwAIE4NUQABFwBBXg3xAiIAEW4UACEdHnsAAkUAFY5BABKeCgAjHa4SAB__CAAPb-0A
+Ad3xEBUFDA8MBwIPNABND0AHJBGP6QUVP5sGHW8NBgIMAAAIABOvawYfLwwAIAhcAAIUADcvF4-L
+BlEPIO8Xv4QAE68rBwAoAFN-F08gLxAAMw8XvwgABKwAACoLAhAABDAAFR8MABVvDAAXD8wABkAA
+F28MAAOBBws4ABffLAC0-xcJbyAvF-8gAy8iAGQS-yABDxIzAD--IAUJAAULLAAFRgA2-xcJxQA0
+-xcEbgBRTyA-F__SABG-PAAZz7oAAVAAGxcQAAMkAAAMABc-HAAUP8oIEBdhAB8RjgklHzFOAgQP
+swIgDzQAAw9oACkPNAB5D4MDIeEBXQFdAS0BzQENPyANAdAEAAgFFa4MADwPFQ4UACMMHhIAEQ7N
+BBQ_GAAABABYDI4NAV1IABdxDAAuAV1iAAQQACBODdgFAo4A0A1OHQwuDfEDDU4cPg2PDQEuAC3u
+DQgAEM0GABPhCgBDbg0MXhsAU24MDQxODAAVfhYAH_4IADtP-QEBzYwFHgHiACf9AW8BE_4IAAAE
+ACBOLf8NBhAAZy4dLxMNDBIAkh0ODRwNHgwNTkwBkR0cDQweDC4MTmcBQgwNDgxXBgNoAUkeDA0M
+owFILgwNDBAAGj4fABlOHQAf7gwADyT9AQsALvEDFAABKwAA8AAHpQELRAFkDS4dDxWODABDCx0L
+fgwAJD4bFgAf7ggAD0-NAf0BFge0DzEAgAC2ArH9CBFNAQ3-IAYNEQIJM54dngoAZI4NHxMNjg0A
+UAweDA0evQMCEABVzgwdHA0NADUNHB4NAGO_HT4MDR4NAGOuDRxODC0MAEEMfhwdpwmw-QccHS4N
+8QkNHC7jASOtASwAAMgJFgwNAEZuDQwNDgBnLg0OHQwOEQAwHg0MeAAGEQAwDg0MhwAHEQApDC4Q
+AABJAwgxAFkuDQwODBEAJwxODgAfjgwAFxTNCgAd4RIACygAP60BTdECDR81WwQAM70BrVoEE55O
+AAGKAycdPg4ASB4dHxMQAABSBBhOEAABRwQKIgBKDB4MPiMAGm4gAAMPAACCAHANjg2RDA2BDwAh
+-QMWACENfv8KEY6OATUuHQwNAACuBCMcjg4AUw4dDA0MBQEA2AQSvgsAMD0M3QgAIPEFDQA0nQF9
+UgBPAQ1eDQwAGhB9HAFAfg3xBg0AIf0EFABPDf4CDQkAAE_dAf0EfwEODxwEIB81ugMeDzEAvgCo
+Aok9Ad0BrQE9AaMQER2pASEdDgQABgIABQ4AEB0xABwOMAAACAAKMAAlDQ4CAA8yAAIAYgAV3TQA
+VB0BPfEASQA8jQE9PwARbrQCBTkAARAJEA1WBwEXAAdGAAEVA0YMDQwOMQAAGAAjDR48BC8eDVsA
+DR5uVAAZjUwAXx0OLQ4dSgAAWQ4tDi0OTAAGEgAITgAHQAAPUgAaBBAAFj1OAAKOA0D9ASGtuQny
+Ah4dPh3hDT4NDxMdGx0ODRvdTwCxCw4bDg0bDQsODQvdBJMOCx0uHQseCx7tBFIeGy4bXgwADksJ
+D-AEEQA2AE4BDe8gEQgPxwkcIA2uwAgFDAANIwAhDe6qBQ7GCA8IAEwPFwESD8EDHg_FBPVznQHt
+AQ0fIPgFEs5-Aw8MAEEBaQAxHg3xVwgA_wQiDR7OEQGIAw8MAGQBhQVA8RH9D10WHA0FAC-9D3gC
+DR80gwEeDzEA--_tH-IxAB0v-xzFAB4PMQD--------------9X0FUCvFyAemA4QDrgOAA7IDgAO
+GA8gCA0YDQgNKB44DTgNOB4oDRAAEdgCADE4DQgCABAoLQAFDAAAQQC-IA6YDkAeWB5wXkCGADw1
+KA8YiACzCBweqCwemDweiEyMADUMDSyMAP8FDA08DgAOSHwOEA4ojA4gHpwOQK6NACHTaC8YDhAO
+eD0OAA54TZEA8QQMGAwNDC0eOAwYHQw9HigMCAwdEQDRSI0eOJ0eKK0eGB0ADQIANC0eCAsAMD0e
+3QIAL-4BhgAcdP8XAd8YHxcEAJMvGA8gDxgPIB8IAIIvGB8XPxgPIAQADyAAAxffBAATPxgAFw8g
+AAQ0AAQEABc-MABP3xj-F7MAGrR3BgT-F2j-IGUfFwUAvA8XAA7-IGMOIP5jtxHzAC00LjA1OTUy
+MzgwOTUyNFkAoi04LjcxOTA0NzYGAAJoAB8y5QIdLzEwMgBhATcC8QufHg4QDr0OAA7NDgAOHQdd
+By0eHSc9Jx0eLQwAAAsCMA2-IP8b-gqXDA0OAA4NDHcMDQ4QDh18HQ4gDp0OQB5dPwMPfAAxgB0C
+Hr0SHq0ifwARAn8AEwJ-ABASLgDOfCIOEA49cg4gHg2CMgMPgAATIG8eRQBxfTIOAA59QoMA9wk9
+EgciHh0nHRInEh4tBx0yByIeTYIePZKFACAeHYMAvx4NEnwiHtIe0v4BewAdQP8XAdI6AMMeIgdS
+ByIeEicyJxIMAAAWABACagDvAg2XDQIeEg13DRIeIn1pACEgd0TeAiCPIM4oE1viAg8OAAcx-xdp
+FAAPBQD-CQ8cBAgTOIoBTy01LjUCBJ-yC5wOEA68DgAOPD8gTA4ADiwNPA08HjxdPB48CgAIBgAB
+FgAhPxCzBv4ELA07DSwOEA48PTwOIA6cDkAeXAoED4QAMTEsDxAIACEcGwcAwwwrHjxdOx48DTsN
+O4cAAAgAzzw9Sw4QDiyLDiAemxEEJYJ8HxAOEA6MLYoAEAxMB7IsCzwLPR48Wz0ePAoABwYA4SwN
+Wz0eHB0LPQs9HgwtBwA_TTtNPQcPFgQUQN8QHxcEAPEATxA-IE8QHxc-EA8gPA4-CgCpXj0fFz0O
+PA49GwYAEF4KACQ9DgYAn00_TRvdG937AW0CHw8yALMBxgH3BZsOEA67DgAOSy8gSw4ADlsNWx5r
+BAD_HFsNCQ1LHksNKQ07HjsNSQ0rDgAOKw1JDRsOEA47DSkNKw4gDjstKw5AHlvQAg_DAC1xSwMe
+aw07E4UAIRsjhgARM4YAEyOGAAAIAACGAM8zDhAOKwMtQw4gHpPPAiVyexMOEA6LI4gAIQsziQBh
+C0Meaw1TBADhWwMNUx5LAw0JDUMeOwOKACArA4MAMR4bEwcAIQszFQBfUy1DHtPSAiLJ0x7THlMv
+IEMeYw1TBAARU3UAEUNfABEzbAACBgAfQ3EAKS-w8DIAswG8AfERmg4QDroOAA7KDgAOWg8gWh5a
+DQoNSh5qDVoe2h46DQoCAJUqHiqNGh4aDQgCALMKDgAOGo0KDhAOKiQAnhoOIA6aDkAeWs0CD4sA
+KbU6Dxkeag06HB6qLI8AWSweKo0cjwARDI8AMRwOAI8AEQz5DD4QDiroDA_PABhweh8ZDhAOiqUF
+Ioo9kwDxAgpNHloMCgxNHmoMXR5afR46RCIA6gx1KowdHhoMCAIAlQ0eGg2MHR4KLSIAD64FJjQZ
+HxcEAPcCbxkPIF8ZHxdfGQ8gDxkPIE8UAAAgABM-GAAEBAD0Ay8ZHxcvGY8gHxkfFx8ZDyAIDgIA
+EQ8aACCOHe4FAf4hfw4tHN0c3fwNA_v1CpcOEA63DgAOVwhXDgAORyhHHlcoRx5HSDcEAAAQABFn
+HgARtywAfiAOlw5AHlf0Ag9yACzwBycPEh5HSBcdHkdIBy0eVygHPR5nCAdwDyBnXS8Av20OEA43
+fQ4gHgeN4AIlgXcfEg4QDoctfgAhFz1-AJVNHlcoTR5HSD0EAP8ANx0oTR4nPQhdHhe9HgfNxwIn
+MBIfFwQAoG8SCF4fF14oTh0EADVOSD4EAAAQAFJuCF4d3gIAH-2LAiAPMgD---8L-xEICAQgFlAX
+QA8cDxAfHCAOLxAeEB4NLhAXDScQXhBeAE0AHvIEHyBQBQ8VQAUuIAUOBy4QBSceEAkAAQUAH05R
+AB-yAhZABhAGYAYQFxAGIAcABxAHBgAQAAIATxcgB1BRAB3-C0AoMDggBygPGBAnCA4QNwYQNwYg
+JwYwFwZAawE9HzYxAF1fEgTw-xEyABzwIDB-F2AOcQ5ADpEOIA4RFQFFEQ4QDgEFDxYPIAUvFg8g
+DxYFAQ4QDgUdDyA9DB0FHQBQHQU9BR0VADARfRE1APABXREOMA4CcQIOIA4CHxVRGykT4AIbHR8Y
+Cx0rAh4rLQotIQ--EBsVCBsVKw4gHnEeQA5xDlAOIR4hDmAPEx8REBkPEzC3AHZACA8YW7YAMQgK
+W7YA0Ao7LQUOEB5xDQUOMA68AA_4ACov8ARwAWIPtABDECC2ACIfFggAArcAAA4AET8WAAG7AKEN
+DyAFDB0MBQwNwAB-BQ0FHQUNBcYAYA59Aw8xAG4PrgMuO7EOEAQAMCAOkVUBIX8VVgERnVMBjL0C
+Ht0OAA69egNfLxMQLDB-AFYRnRECSB5xDAVGA08vExArjgIfDwQBLg4AAQ98AI4OjwIPMQCfB0AC
+MIEOMEkERAVBDiD9BHEPFgENIQ4g_gQwHQEFCwBAAR0FHSIAMBE9QTAAkS0xDkAOAjEfFToEMBwR
+TGUBYBwdDxgdPHsVEE0IFsAcFQgVLA5AHmEOYA4EAKAhDiEOcB8RDxMABQAfQL08DA_wAEEgUQIG
+AFIfFTEcArAAUAgPGDwCsQAyLQgLswDPCxwtBQ4wHlENBQ5QtgAwL-AEZwFaD60ARAFVBg_uAAFR
+DQwFDA2wAE8FDQUNswAAMBsRS7MAEBuzABA7yBRATTsOIEoGLxUrswAiDygDHg8xAI4PigNiAWwB
+EYAFAA_tAISwUA5hYA5BDgEPE2AiAp8PEVAbDxNQC0BcAYwCygI_IQ6wzQIPXAF6IQ5QZQBQIT4h
+DkCrAD8wHxHHCT8vMTAyAJEHeAEASggPeA1aAEELTh4hDrBECw_2AIkgIR4uAm8OYAkfEYC2AB0v
+8AS3CS4gLxMzAS8sMHsAYI8hHi8TDmAsgMYCHw8yALELdAIPQgEFQZ8VDiDMIxHdPAEwnS8WbgwQ
+HG8EIB4hwAGfER4rDmAuEC4wfwCcL-AEgAAgBbYCPxEeLHcAmA5QAg8yAKMLNQJQER8WAU0pBRAt
+FgUQLQkAEgwIACwBnRkFkQ8VcQsOIA4rURcgACwMFmuMEkAdCjs9WAIYHVgCHinhAQ_iALMv8ASj
+ADQAWwYWO1oGRB0IGx1aBg_eAD5BHQ8gDeYqGB2iACINDBUAHw2qAF8PvgIPHzYxAI4PrgIpERNh
+AXAPFQsKUQsaCSAAsgKwKgsqHiotCAkKCzoiILkdCSoLPQ4QDgthC7kCHidxAQ_sALwv8AStACw0
+HxULrACiHxgKHToeKi0JLakAvwgaHSoOIA4LcQsOogA-AmgDMwANAGgDFgBoAwBGLg_uAFJQbT02
+fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wMyAyMjoxNzowMSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSIscmV2aXNpb249MjAxMF1dbHo0ANkAAAB2EAAA8Ah7e2JtcD11c2VyZGF0
+Ni0wMyAyMjoxNzowMSIscmV2aXNpb249MjQzMV1dbHo0ANkAAAB2EAAA8Ah7e2JtcD11c2VyZGF0
 YSgiaTE2IiwzMgMALyIwAQD-AF8xMDAwMgQAABM0CAAvMzCAAE4AYwATMggAojE5MDAyOTAwMGMQ
 AA_AAFEAcABmMjgwMDE4jAAjMTiIAA_AAFAmMTl4ABMzdwEAfAAfMYAAUQBkAB9hBAAIL2IwAQD-
 ---------------E9Q0iKSxoaWRkZW49ZmFsc2UscGFuX3g9LTE5MS42AQARNxcAo3k9LTQxMy41
 ODMBALI0LHRpbGVfaD0zMgoAEHcKAIB6b29tPTF9fQ==
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wMyAyMjoxNzowMSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSIscmV2aXNpb249MTg1OV1dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
+Ni0wMyAyMjoxNzowMSIscmV2aXNpb249MjI3MF1dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
 EAIOAAGgASACoA4ADxAADfDKAQIDBAUGBwAP-5AICQoLDwwPDQ8ODw8AD--w-wEA6-8n0gEQBg8g
 EAEgASAB8AACEAIMEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYMMAAcIg9AMQCD
 D2-gAhACDz0zAE-wxw9CYgAdDzAA------9FH-8BAKz-XcgPQAACQB8TDxQPFQ8WDxcPGA8aDx0M
@@ -116,9 +116,9 @@ DyQPKQ8vDzMPOA88D0EPRQ9IH0oPRw9FD0EPPw89DzcPMg8vDywPKP--EfIP-hEPPQ8-X0BfPw8_
 Dz1PPB87HzovOV84DzkeAf4K8HAPQAAPEED_sAoA--------------------fFD_sPD-OQ==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wMyAyMjoxNzowMSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: character.lua
---[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-05-30 23:11:11",revision=1985]]
+--[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-06-03 22:17:01",revision=2474]]
 include './types.lua'
 include './collision.lua'
 
@@ -148,6 +148,7 @@ character=entity:new({
     	max_width = 16,
     	max_height = 18,
     	col_point = { x=0, y=0 },
+    	select_point = { x=0, y=0},
 		i_dir = direction.up,
 		spd=0.65,
 		health = 10,
@@ -229,7 +230,7 @@ character=entity:new({
 				end
 			elseif _btn == button.down_left then
 				self.i_dir = direction.down
-				self.col_point = { x = self.x, y = self.y+self.max_height}
+				self.col_point = { x = self.x+1, y = self.y+self.max_height}
 				if collide(self,button.down_left) == false then
 					self.y, self.x = self.y + (0.50 * self.spd), self.x - (1 * self.spd)
 				end
@@ -260,11 +261,12 @@ character=entity:new({
 			end
 		else
 			self.state = "idle"
+			self.col_point = { x = (self.x+(self.max_width/2)), y = (self.y+(self.max_height/2)) }
 			start_idle = time()
 		end
+		self.select_point = { x = (self.x+(self.max_width/2)), y = (self.y+(self.max_height/2)) }
 	end,
 	animate = function(self)
-		_debug_message = "state: " .. self.state .. " dir: " .. self.i_dir
 		if self.state == "idle" then
 			if self.i_dir == direction.down then
 				animate_character(
@@ -336,10 +338,70 @@ character=entity:new({
 			end	
 		end
 	end,
+	scan_area = function(self)
+		local current_cel = { x = self.select_point.x/_tile_size, y = self.select_point.y/_tile_size}
+		local tr_co = { x = current_cel.x + 1, y = current_cel.y - 1 }
+		local tr_spr = mget(tr_co.x, tr_co.y)
+		local tr_f = fget(tr_spr)
+		local tl_co = { x = current_cel.x - 1, y = current_cel.y - 1 }
+		local tl_spr = mget(tl_co.x, tl_co.y)
+		local tl_f = fget(tl_spr)
+		local t_co = { x = current_cel.x, y = current_cel.y - 1 }
+		local t_spr = mget(t_co.x, t_co.y)
+		local t_f = fget(t_spr)
+		local r_co = { x = current_cel.x + 1, y = current_cel.y }
+		local r_spr = mget(r_co.x, r_co.y)
+		local r_f = fget(r_spr)
+		local l_co = { x = current_cel.x - 1, y = current_cel.y }
+		local l_spr = mget(l_co.x, l_co.y)
+		local l_f = fget(l_spr)
+		local br_co = { x = current_cel.x + 1, y = current_cel.y + 1 }
+		local br_spr = mget(br_co.x, br_co.y)
+		local br_f = fget(br_spr)
+		local bl_co = { x = current_cel.x - 1, y = current_cel.y +1 }
+		local bl_spr = mget(bl_co.x, bl_co.y)
+		local bl_f = fget(bl_spr)
+		local b_co = { x = current_cel.x, y = current_cel.y + 1 }
+		local b_spr = mget(b_co.x, b_co.y)
+		local b_f = fget(b_spr)
+		local c_co = { x = current_cel.x, y = current_cel.y }
+		local c_spr = mget(c_co.x, br_co.y)
+		local c_f = fget(c_spr)
+		
+		if tr_f != 0 then
+			_debug_message = "tr, "
+			add(_flagged_tiles,{ tile_co = tr_co, sprite = tr_spr, flags = tr_f })
+		end
+		if tl_f != 0 then
+			add(_flagged_tiles,{ tile_co = tl_co, sprite = tl_spr, flags = tl_f })
+		end
+		if t_f != 0 then
+			add(_flagged_tiles,{ tile_co = t_co, sprite = t_spr, flags = t_f })
+		end
+		if r_f != 0 then
+			add(_flagged_tiles,{ tile_co = r_co, sprite = r_spr, flags = r_f })
+		end
+		if l_f != 0 then
+			add(_flagged_tiles,{ tile_co = l_co, sprite = l_spr, flags = l_f })
+		end
+		if br_f != 0 then
+			add(_flagged_tiles,{ tile_co = br_co, sprite = br_spr, flags = br_f })
+		end
+		if bl_f != 0 then
+			add(_flagged_tiles,{ tile_co = bl_co, sprite = bl_spr, flags = bl_f })
+		end
+		if b_f != 0 then
+			add(_flagged_tiles,{ tile_co = b_co, sprite = b_spr, flags = b_f })
+		end
+		if c_f != 0 then
+			_debug_message = _debug_message .. "c, "
+			add(_flagged_tiles,{ tile_co = c_co, sprite = c_spr, flags = c_f })
+		end
+	end
 })
 
 :: collision.lua
---[[pod_format="raw",created="2024-05-17 20:59:47",modified="2024-05-30 23:11:11",revision=916]]
+--[[pod_format="raw",created="2024-05-17 20:59:47",modified="2024-06-03 22:17:01",revision=1372]]
 include './types.lua'
 include './util.lua'
 
@@ -347,37 +409,31 @@ function tile_collide(o,d,r,f)
 	r = r or 0
 	f = f or 0		
 	if d == button.up then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
 	end
 	if d == button.down then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
 	end
 	if d == button.left then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
 	end
 	if d == button.right then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
 	end	
 	if d == button.up_left then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
 	end
 	if d == button.up_right then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
@@ -389,7 +445,6 @@ function tile_collide(o,d,r,f)
 		end
 	end
 	if d == button.down_right then
-		circfill(o.col_point.x, o.col_point.y, 2, 8)
 		if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
 			return true
 		end
@@ -404,22 +459,35 @@ function collide(o,d)
 	end
 end
 :: inventory.lua
---[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-05-30 23:11:11",revision=1175]]
+--[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-06-03 22:17:01",revision=1664]]
 include './types.lua'
+include './util.lua'
+include './items.lua'
+
+inventory_slot=entity:new({
+	quantity = 0,
+	item = nil
+})
 
 inventory=entity:new({
 	max_width = 119,
-	max_height = 6,
+	max_height = 68,
 	max_capacity = 10,
+	inv_starting_x = 0,
+	cont_starting_x = 0,
+	oo_ui = true,
 	open = false,
 	contents={},
-	update = function(self)
-		if 		 ((_c_x-480+_m_x) > _c_x-360 
+	show = function(self)
+		if 		 ((_c_x-480+_m_x) > _c_x-360
 			and (_c_x-480+_m_x) < (_c_x-240+self.max_width)
 			and (_m_y-_c_y) > _c_y
 			and (_m_y+_c_y) < (_c_y + 6))
 		then
+			self.oo_ui = false
 			self.open = true
+		else
+			self.oo_ui = true
 		end
 		if self.open == true then
 			spr(140,_c_x-360,_c_y)
@@ -427,30 +495,75 @@ inventory=entity:new({
 		else
 			spr(132,_c_x-360,_c_y)
 			spr(132,(_c_x-240)+1,_c_y)
-		end		
+		end	
+		if not ((_m_y+_c_y) < (_c_y+self.max_height)) and 
+			((_m_l_b == true
+			and self.oo_ui == true)
+			or (_m_r_b == true 
+			and self.oo_ui == true)) 
+		then
+			self.open = false
+		end
+	end,
+	display_contents = function(self)
+		local current_y = _c_y+10
+		for i, c in pairs(self.contents) do
+			_debug_message = "entered_contents"
+			spr(c.item.sprite,self.inv_starting_x,current_y)
+			print(c.item.name,self.inv_starting_x+11, current_y)
+			
+			current_y+=9
+		end
+	end,
+	update = function(self)
+		self.inv_starting_x = _c_x-358
+		self.cont_starting_x = _c_x-238
+		-- test contents
+		self.show(self)
+		if self.open then
+			self.display_contents(self)
+		end	
+	end
+})
+
+
+:: items.lua
+--[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-06-03 22:17:01",revision=451]]
+item=entity:new({
+	sprite = 0,
+	name = "",
+	amount = 100,
+	weight = 1.0,
+	item_type = nil
+})
+
+consumable=item:new({
+	consume = function(self,o,a)
+		self.amount -= a
+		o.state = "consuming"
+	end
+})
+
+water_bottle=consumable:new({
+	sprite = 188,
+	name = "water bottle",
+	amount = 100,
+	weight = 0.8,
+	consume = function(self,o,a)
+		consumable.consume(self,o,a)
+		o.thirst -= a
 	end
 })
 
 item_types = {
-	medicine = 1,
-	first_aid = 2,
-	food = 3,
-	drink = 4,
-	junk = 5,
-	useable = 6,
-	special = 7,
-	unique = 8,
+	consumable = 1,
+	junk = 2,
+	useable = 3,
+	special = 4,
+	unique = 5,
 }
-:: items.lua
---[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-05-30 23:11:11",revision=15]]
-water=entity:new({
-	sprite = 188,
-	name = "water bottle",
-	amount = 100,
-	weight = 0.8
-})
 :: main.lua
---[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-05-30 23:11:11",revision=2254]]
+--[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-06-03 22:17:01",revision=2724]]
 include './util.lua'
 include './character.lua'
 include './moodles.lua'
@@ -458,13 +571,18 @@ include './inventory.lua'
 include './static_interactable.lua'
 
 _debug_message = ""
-_tile_size = 32
 
 function _init()
-    _w_w, _w_h = 480,270
-    c=character:new({})
-    m={moodles={}}
-    i=inventory:new({})
+	_w_w, _w_h = 480,270
+	_tile_size = 32
+	c=character:new({})
+	m={moodles={}}
+	_flagged_tiles = {}
+   i_1 = water_bottle:new({})
+	c_1 = inventory_slot:new({ quantity = 1, item = i_1})
+	debug_inv = {}
+	add(debug_inv,c_1)
+	i=inventory:new({contents = debug_inv})
 end
 
 function _draw()
@@ -472,28 +590,33 @@ function _draw()
 	camera(c.x - (_w_w/2),c.y - (_w_h/2))
 	_c_x = c.x + (_w_w/2)
 	_c_y = (c.y + (_w_h/2)) - 270
-	_m_x, _m_y, _m_b, _m_w_x, _m_w_y = mouse()
 	map()
-	c:animate()
 	i:update()
 	display_moodles(m,c)
+	c:scan_area()
+	temp_update_tiles()
+	c:animate()
 	debug()
-	interact_container(c)
+	_flagged_tiles = {}
 end
 
 function _update()
+	_m_x, _m_y, _m_b, _m_w_x, _m_w_y = mouse()
+	_m_l_b=_m_b&1>0
+	_m_r_b=_m_b&2>0
+	_m_m_b=_m_b&4>0
 	c:move()
 	c:update_vitals()
-	interact_container(c)
+	_debug_message = ""
 end
 
 function debug()
 	print("debug_message: " .. _debug_message
 			.. " c_x: " .. _c_x
-			.. " c_y: " .. _c_y, _c_x-480, _c_y+10)
+			.. " c_y: " .. _c_y, _c_x-480, _c_y+260)
 end
 :: moodles.lua
---[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-05-30 23:11:11",revision=1549]]
+--[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-06-03 22:17:01",revision=1969]]
 include './types.lua'
 
 moodle=entity:new({
@@ -759,80 +882,30 @@ moodle_sprites={
 	thirst_4 = 147,
 }
 :: static_interactable.lua
---[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-05-30 23:11:11",revision=662]]
+--[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-06-03 22:17:01",revision=1142]]
 include './types.lua'
 include './collision.lua'
 include './util.lua'
 
 container=entity:new({
-	can_interact = function(o)
-		local current_cel = { x = o.col_point.x/_tile_size, y = o.col_point.y/_tile_size}
-		local top_right = { x = current_cel.x + 1, y = current_cel.y - 1 }
-		local top_left = { x = current_cel.x - 1, y = current_cel.y - 1 }
-		local top = { x = current_cel.x, y = current_cel.y - 1 }
-		local right = { x = current_cel.x + 1, y = current_cel.y }
-		local left = { x = current_cel.x - 1, y = current_cel.y }
-		local bottom_right = { x = current_cel.x + 1, y = current_cel.y + 1 }
-		local bottom_left = { x = current_cel.x - 1, y = current_cel.y +1 }
-		local bottom = { x = current_cel.x, y = current_cel.y + 1 }
-		local current = { x = current_cel.x, y = current_cel.y }
-		local cell = nil
-		
-		if fget2(mget(top_right.x, top_right.y), 1) then
-			text_x = (o.col_point.x) + _tile_size
-			text_y = (o.col_point.y) - _tile_size
-			cell = top_right
-		elseif fget2(mget(top_left.x, top_left.y), 1) then
-			text_x = (o.col_point.x) - _tile_size
-			text_y = (o.col_point.y) - _tile_size
-			cell = top_left
-		elseif fget2(mget(top.x, top.y), 1) then
-			text_x = (o.col_point.x)
-			text_y = (o.col_point.y) - _tile_size
-			cell = top
-		elseif fget2(mget(right.x, right.y), 1) then
-			text_x = (o.col_point.x) + _tile_size
-			text_y = (o.col_point.y)
-			cell = right
-		elseif fget2(mget(left.x, left.y), 1) then
-			text_x = (o.col_point.x) - _tile_size
-			text_y = (o.col_point.y)
-			cell = left
-		elseif fget2(mget(bottom_right.x, bottom_right.y), 1) then
-			text_x = (o.col_point.x) + _tile_size
-			text_y = (o.col_point.y) + _tile_size
-			cell = bottom_right
-		elseif fget2(mget(bottom_left.x, bottom_left.y), 1) then
-			text_x = (o.col_point.x) - _tile_size
-			text_y = (o.col_point.y) + _tile_size
-			cell = bottom_left
-		elseif fget2(mget(bottom.x, bottom.y), 1) then
-			text_x = (o.col_point.x)
-			text_y = (o.col_point.y) + _tile_size
-			cell = bottom
-		elseif fget2(mget(current.x,current.y), 1) then
-			text_x = (o.col_point.x)
-			text_y = (o.col_point.y)
-			cell = current
-		else
-			text_x = nil
-			text_y = nil
-			cell = nil
-		end
-		if text_x and text_y and cell then 
-			if mget(cell.x, cell.y) == 4 then
-				s_d_cell = cell 
-				mset(cell.x, cell.y, 5)
-				mset(cell.x, cell.y+1, 13)
+	max_capacity = 50,
+})
+
+draws=container:new({
+
+})
+
+function temp_update_tiles()
+	for i,ft in pairs(_flagged_tiles) do
+		if fget_precalc(ft.flags,1) == true then
+			if ft.sprite == 4 then
+				spr(5,(flr(ft.tile_co.x)*_tile_size), ((flr(ft.tile_co.y)*_tile_size)+16))
 			end
-		elseif s_d_cell then
-			mset(s_d_cell.x, s_d_cell.y, 4)
-			mset(s_d_cell.x, s_d_cell.y+1, 12)
 		end
 	end
-})
+end
 :: types.lua
---[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-05-30 23:11:11",revision=1547]]
+--[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-06-03 22:17:01",revision=1967]]
 class={
 	new=
 		function(self,tbl)
@@ -882,7 +955,7 @@ function time_since(start, current)
 	return (flr(current) - flr(start))
 end
 :: util.lua
---[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-05-30 23:11:11",revision=1582]]
+--[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-06-03 22:17:01",revision=2016]]
 function coalesce(a, b)
 	if a == nil then
 		return b
@@ -902,17 +975,30 @@ function fget2(n, f)
 		return fget(n)
 	end
 end
+
+function fget_precalc(pcf, f)
+	return (pcf>>f)&1==1	
+end
+
+function tablelength(a)
+  local count = 0
+  for _ in pairs(a) do 
+  	count = count + 1 
+  end
+  return count
+end
+
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjQ4OjQ3Iixtb2RpZmllZD0iMjAyNC0w
-NS0zMCAyMzoxMToxMSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
-MjQiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjMTYiLHdvcmtz
-cGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNvbGxpc2lvbi5sdWEjMzkiLHdvcmtzcGFjZV9pbmRl
-eD0xfSx7bG9jYXRpb249InN0YXRpY19pbnRlcmFjdGFibGUubHVhIzUiLHdvcmtzcGFjZV9pbmRl
-eD0xfSx7bG9jYXRpb249ImludmVudG9yeS5sdWEjNiIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2Nh
-dGlvbj0iaXRlbXMubHVhIzUiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249Im1vb2RsZXMu
-bHVhIzE4MCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idHlwZXMubHVhIzM0Iix3b3Jr
-c3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJ1dGlsLmx1YSMxNyIsd29ya3NwYWNlX2luZGV4PTF9
-LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn0se2xvY2F0aW9uPSJtYXAv
-MC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNmeC8wLnNmeCIsd29ya3NwYWNl
-X2luZGV4PTR9fV1dbHo0AAQAAAADAAAAMG5pbA==
+Ni0wMyAyMjoxNzowMSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+MTkiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjMjYwIix3b3Jr
+c3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJjb2xsaXNpb24ubHVhIzEzIix3b3Jrc3BhY2VfaW5k
+ZXg9MX0se2xvY2F0aW9uPSJzdGF0aWNfaW50ZXJhY3RhYmxlLmx1YSMxMyIsd29ya3NwYWNlX2lu
+ZGV4PTF9LHtsb2NhdGlvbj0iaW52ZW50b3J5Lmx1YSM0MSIsd29ya3NwYWNlX2luZGV4PTF9LHts
+b2NhdGlvbj0iaXRlbXMubHVhIzEzIix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJtb29k
+bGVzLmx1YSMxODAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InR5cGVzLmx1YSMzNCIs
+d29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idXRpbC5sdWEjMjEiLHdvcmtzcGFjZV9pbmRl
+eD0xfSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0i
+bWFwLzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtz
+cGFjZV9pbmRleD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
 :: [eoc]
