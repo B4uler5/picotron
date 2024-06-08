@@ -1,44 +1,38 @@
 picotron cartridge // www.picotron.net
 version 2
 
-:: .info.pod
-b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjEzOjEyIixtb2RpZmllZD0iMjAyNC0w
-NS0yOCAyMjo0MjoxOSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
-NCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5k
-ZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249
-InNmeC8wLnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1dbHo0AAQAAAADAAAAMG5pbA==
 :: gfx/
-:: gfx/.info.pod
-b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU2Iixtb2RpZmllZD0iMjAyNC0w
-NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+:: map/
+:: sfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU3Iixtb2RpZmllZD0iMjAyNC0w
-NS0wMyAwOTowODowMyIscmV2aXNpb249OTldXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
-IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
--------------------------------------_dQbT04fX0=
-:: map/
-:: map/.info.pod
+Ni0wOCAyMjoxNDowMSIscmV2aXNpb249MTE5XV1sejQAbQAAAAUxAADzFHtbMF09e2JtcD1weHUA
+QyAQEATw8CxmbGFncz0wLHBhbl94CADPeT0wLHpvb209OH0sMQD-------------------------
+---------------------------------------nUG09OH19
+:: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU2Iixtb2RpZmllZD0iMjAyNC0w
-NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOCAyMjoxNDowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU3Iixtb2RpZmllZD0iMjAyNC0w
-NS0wMyAwOTowODowMyIscmV2aXNpb249OTNdXWx6NABoAAAAWBAAAPAIe3tibXA9dXNlcmRhdGEo
-ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
-ANJ5PTAsdGlsZV9oPTE2CgAQdwoAgHpvb209MX19
-:: sfx/
-:: sfx/.info.pod
+Ni0wOCAyMjoxNDowMSIscmV2aXNpb249MTEzXV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDMyAwAvIjABAP--------------------vxCCIpLGhpZGRlbj1mYWxzZSxwYW5feD0w
+CADSeT0wLHRpbGVfaD0xNgoAEHcKAIB6b29tPTF9fQ==
+:: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU2Iixtb2RpZmllZD0iMjAyNC0w
-NS0yOCAyMjo0MjoxOSJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOCAyMjoxNDowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU3Iixtb2RpZmllZD0iMjAyNC0w
-NS0wMyAwOTowODowMyIscmV2aXNpb249OTNdXWx6NAAhAQAA3hQAAP8scHh1AAMoAAAEAAQPQBAC
-DgABoAEgAqAOAA8QAA3wygECAwQFBgcAD-_QCAkKCw8MDw0PDg8PAA--8P8BAOvyJ9IBEAYPIBAB
-IAEgAfAAAhACDBABIA8hIAEwD0Dwww8oD--wxg-4Cg--D4AP9w8NAfAJARAGDDAAPw8S4DEAGy-w
-ADAA------_FH-8BAKzxYsgPQAANQA8SDxQPFg8YDxoPHA8eDyEPIw8mDygPKw8tDy8PMQ8yDzQP
-NQ82DzcPOA86DzsPPQ8_Dz8fQB9BD0IPQw9ED0UfRi9HD0YPRQ9ED0IPQQ89DzcPNA8xDywPJw8h
-DxoPEguf--EmnvwmnvBwcABf-rDwcAMIAP---------------1xQ-rDw-zk=
+Ni0wOCAyMjoxNDowMSIscmV2aXNpb249MTEzXV1sejQAIQEAAN4UAAD-LHB4dQADKAAABAAED0AQ
+Ag4AAaABIAKgDgAPEAAN8MoBAgMEBQYHAA--kAgJCgsPDA8NDw4PDwAP--D-AQDr8ifSARAGDyAQ
+ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAD8PEuAxABsv
+8AAwAP------hR--AQCs8WLID0AADUAPEg8UDxYPGA8aDxwPHg8hDyMPJg8oDysPLQ8vDzEPMg80
+DzUPNg83DzgPOg87Dz0PPg8-H0AfQQ9CD0MPRA9FH0YvRw9GD0UPRA9CD0EPPQ83DzQPMQ8sDycP
+IQ8aDxILn--xJp78Jp7wcHAAX-6w8HADCAD---------------9cUP6w8P85
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjA3OjU2Iixtb2RpZmllZD0iMjAyNC0w
+Ni0wOCAyMjoxNDowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: main.lua
---[[pod_format="raw",created="2024-05-02 22:07:57",modified="2024-05-03 09:08:03",revision=135]]
+--[[pod_format="raw",created="2024-05-02 22:07:57",modified="2024-06-08 22:14:01",revision=162]]
 function _init()
 	pressed_for = 0
 	window(240,135)
@@ -46,17 +40,15 @@ function _init()
 end
 
 function _draw()
-	mx,my,mb = mouse()
-	if mb == 1 then
-		pressed_for += 1
-		for i=1,24 do
-			circ(mx,my, i*(pressed_for*0.01), i)
-		end
-	end
-	if mb == 0 then
-		pressed_for = 0
-	end
+	cls(0)
+	print(btn())
 end
 
 
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAyIDIyOjEzOjEyIixtb2RpZmllZD0iMjAyNC0w
+Ni0wOCAyMjoxNDowMiIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+OSIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5k
+ZXg9Mn0se2xvY2F0aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249
+InNmeC8wLnNmeCIsd29ya3NwYWNlX2luZGV4PTR9fV1dbHo0AAQAAAADAAAAMG5pbA==
 :: [eoc]
