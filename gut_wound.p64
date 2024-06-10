@@ -6,7 +6,7 @@ version 2
 :: sfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjowOSIscmV2aXNpb249MzQ5OV1dbHo0AKATAADnYgAA8xh7WzBdPXtibXA9cHh1
+Ni0wOSAyMjowMDozOSIscmV2aXNpb249MzY2M11dbHo0AKATAADnYgAA8xh7WzBdPXtibXA9cHh1
 AEMgICAE-yD----zLGZsYWdzPTAscGFuX3gIAMx5PTAsem9vbT03fSw1AFUNHxcPEgcAnwwPFw8g
 DxIPFwsAfmUNHxf-IA4FAB4NJQAPkwBhIw8gcQEfMXEBFvYBEa8XTyCvFz8gDxevEg8XLwgAdxKv
 IA8SLxcIABsXCAAAGAAaIAgAAY8AHxcMAAAACgAeIAwADzAA--8PANQCHw8EACgPEAMcIg8SzgMe
@@ -97,20 +97,20 @@ CSAAsgKwKgsqHiotCAkKCzoiILkdCSoLPQ4QDgthC7kCHidxAQ_sALwv8AStACw0HxULrACiHxgK
 HToeKi0JLakAvwgaHSoOIA4LcQsOogA-AmgDMwANAGgDFgBoAwA8Lw_uAFJQbT02fX0=
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjoxMCJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOSAyMjowMDozOSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjowOSIscmV2aXNpb249MzI4OV1dbHo0ANkAAAB2EAAA8Ah7e2JtcD11c2VyZGF0
+Ni0wOSAyMjowMDozOSIscmV2aXNpb249MzQ1Ml1dbHo0ANkAAAB2EAAA8Ah7e2JtcD11c2VyZGF0
 YSgiaTE2IiwzMgMALyIwAQD-AF8xMDAwMgQAABM0CAAvMzCAAE4AYwATMggAojE5MDAyOTAwMGMQ
 AA_AAFEAcABmMjgwMDE4jAAjMTiIAA_AAFAmMTl4ABMzdwEAfAAfMYAAUQBkAB9hBAAIL2IwAQD-
 ---------------E9Q0iKSxoaWRkZW49ZmFsc2UscGFuX3g9LTE5MS42AQARNxcAo3k9LTQxMy41
 ODMBALI0LHRpbGVfaD0zMgoAEHcKAIB6b29tPTF9fQ==
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjoxMCJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOSAyMjowMDozOSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjowOSIscmV2aXNpb249MzEyMF1dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
+Ni0wOSAyMjowMDozOSIscmV2aXNpb249MzI4M11dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
 EAIOAAGgASACoA4ADxAADfDKAQIDBAUGBwAP-5AICQoLDwwPDQ8ODw8AD--w-wEA6-8n0gEQBg8g
 EAEgASAB8AACEAIMEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYMMAAcIg9AMQCD
 D2-gAhACDz0zAE-wxw9CYgAdDzAA------9FH-8BAKz-XcgPQAACQB8TDxQPFQ8WDxcPGA8aDx0M
@@ -118,31 +118,11 @@ DyQPKQ8vDzMPOA88D0EPRQ9IH0oPRw9FD0EPPw89DzcPMg8vDywPKP--EfIP-hEPPQ8-X0BfPw8_
 Dz1PPB87HzovOV84DzkeAf4K8HAPQAAPEED_sAoA--------------------fFD_sPD-OQ==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjoxMCJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOSAyMjowMDozOSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: character.lua
---[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-06-08 23:32:09",revision=3376]]
+--[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-06-09 22:00:39",revision=3555]]
 include './types.lua'
-include './collision.lua'
-
---object, start frame,
---num frames, speed, flip
-function animate_character(o, sf, nf, sp, fl)
-	if(not o.a_la) o.a_la = sf
-	if(not o.a_ct) o.a_ct = 0
-	if(not o.a_st) o.a_st = 0
-	if(not o.fl) o.fl = false
-	o.a_ct += 1
-	if o.a_ct % (30/sp) == 0 then
-	 o.a_st += 1
-	 if(o.a_st == nf) o.a_st = 0
-	elseif o.a_la != sf then
-	o.a_st = 0
-	end
-
-	o.a_fr = sf + o.a_st
-	spr(o.a_fr, o.x, o.y, fl)
-	o.a_la = sf
-end
+include './util.lua'
 
 character=entity:new({
 	x=160,
@@ -170,253 +150,244 @@ character=entity:new({
 	state = "idle",
 	start_idle = nil,
 	start_move = nil,
-	update_vitals = function(self)
-		if self.state == "idle" and self.health < 70 then
-			last_update_move, current_update = 0, time_since(start_idle, time())
-			if current_update != last_update_idle then
-				last_update_idle = current_update
-				self.health += 0.05
-				self.hunger += 0.01
-				self.thirst += 0.02
-				if self.wound_health < 50 then
-					self.wound_health += 0.01
-				end
-				if self.pain > 50 then
-					self.pain -= 0.05
-				end
-			end
-		end
-		if self.state == "moving" then
-			last_update_idle, current_update = 0, time_since(start_move, time())
-			if current_update != last_update_move then
-				last_update_move = current_update
-				self.health -= 0.65
-				self.wound_health -= 0.25
-				self.pain += 0.1
-				self.hunger += 0.1
-				self.thirst += 0.1
-			end
-		end
-		if self.health < 50 
-			and self.wound_health < 50 
-			and self.pain > 70 
-			and self.hunger > 50 
-			and self.thirst > 50 then
-			last_update_idle, current_update = 0, time_since(start_move, time())
-			if current_update != last_update_move then
-				last_update_move = current_update
-				self.delirium += 0.1
-			end
-		end
-	end,
-	move = function(self)
-		_btn = btn()
-		if _btn != button.none then
-			self.state, self.start_move = "moving", time()
-			self.col_point = { x = (self.x+(self.max_width/2)), y = (self.y+(self.max_height/2)) }
-			if _btn == button.down_right then
-				self.i_dir = direction.down
-				self.col_point = { x = self.x+self.max_width, y = self.y+self.max_height}
-				if collide(self,button.down_right) == false then
-					self.y, self.x = self.y + (0.50 * self.spd), self.x + (1 * self.spd)
-				end
-			elseif _btn == button.up_left then
-				self.i_dir = direction.up
-				self.col_point = { x = self.x, y = self.y}
-				if collide(self,button.up_left) == false then
-					self.y, self.x = self.y - (0.50 * self.spd), self.x - (1 * self.spd)
-				end
-			elseif _btn == button.up_right then
-				self.i_dir = direction.up
-				self.col_point = { x = self.x+self.max_width, y = self.y }
-				if collide(self,button.up_right) == false then
-					self.y, self.x = self.y - (0.50 * self.spd), self.x + (1 * self.spd)
-				end
-			elseif _btn == button.down_left then
-				self.i_dir = direction.down
-				self.col_point = { x = self.x+1, y = self.y+self.max_height}
-				if collide(self,button.down_left) == false then
-					self.y, self.x = self.y + (0.50 * self.spd), self.x - (1 * self.spd)
-				end
-			elseif _btn == button.right then
-				self.i_dir = direction.right
-				self.col_point = { x = self.x+self.max_width, y = self.y+(self.max_height/2)}
-				if collide(self,button.right) == false then
-					self.x = self.x + (1 * self.spd)
-				end
-			elseif _btn == button.left then
-				self.i_dir = direction.left
-				self.col_point =  { x = self.x, y = self.y+(self.max_height/2)}
-				if collide(self,button.left) == false then
-					self.x = self.x - (1 * self.spd)
-				end
-			elseif _btn == button.down then
-				self.i_dir = direction.down
-				self.col_point = { x = self.x+(self.max_width/2), y = self.y+self.max_height}
-				if collide(self,button.down) == false then
-					self.y = self.y + (1 * self.spd)
-				end
-			elseif _btn == button.up then
-				self.i_dir = direction.up
-				self.col_point = { x = self.x+(self.max_width/2), y = self.y}
-				if collide(self,button.up) == false then
-					self.y = self.y - (1 * self.spd)
-				end
-			end
-		else
-			self.state = "idle"
-			self.col_point = { x = (self.x+(self.max_width/2)), y = (self.y+(self.max_height/2)) }
-			self.start_idle = time()
-		end
-		self.select_point = { x = (self.x+(self.max_width/2)), y = (self.y+(self.max_height/2)) }
-	end,
-	animate = function(self)
-		if self.state == "idle" then
-			if self.i_dir == direction.down then
-				animate_character(
-					self,
-					self.d_i_f.sf,
-					self.d_i_f.nf,
-					self.d_i_f.s,
-					self.d_i_f.fl
-				)
-			elseif self.i_dir == direction.up then
-				animate_character(
-					self,
-					self.u_i_f.sf,
-					self.u_i_f.nf,
-					self.u_i_f.s,
-					self.u_i_f.fl
-				)
-			elseif self.i_dir == direction.left then
-				animate_character(
-					self,
-					self.l_i_f.sf,
-					self.l_i_f.nf,
-					self.l_i_f.s,
-					self.l_i_f.fl
-				)
-			elseif self.i_dir == direction.right then
-				animate_character(
-					self,
-					self.r_i_f.sf,
-					self.r_i_f.nf,
-					self.r_i_f.s,
-					self.r_i_f.fl
-				)
-			end
-		end
-		if self.state == "moving" then
-			if self.i_dir == direction.right then
-					animate_character(
-					self,
-					self.r_m_f.sf,
-					self.r_m_f.nf,
-					self.r_m_f.s,
-					self.r_m_f.fl
-				)
-			elseif self.i_dir == direction.left then
-					animate_character(
-					self,
-					self.l_m_f.sf,
-					self.l_m_f.nf,
-					self.l_m_f.s,
-					self.l_m_f.fl
-				)
-			elseif self.i_dir == direction.down then
-					animate_character(
-					self,
-					self.d_m_f.sf,
-					self.d_m_f.nf,
-					self.d_m_f.s,
-					self.d_m_f.fl
-				)
-			elseif self.i_dir == direction.up then
-					animate_character(
-					self,
-					self.u_m_f.sf,
-					self.u_m_f.nf,
-					self.u_m_f.s,
-					self.u_m_f.fl
-				)
-			end	
-		end
-	end,
-	scan_area = function(self)
-		local current_cel = { x = self.select_point.x/_tile_size, y = self.select_point.y/_tile_size}
-		local tr_co = { x = current_cel.x + 1, y = current_cel.y - 1 }
-		local tr_spr = mget(tr_co.x, tr_co.y)
-		local tr_f = fget(tr_spr)
-		local tl_co = { x = current_cel.x - 1, y = current_cel.y - 1 }
-		local tl_spr = mget(tl_co.x, tl_co.y)
-		local tl_f = fget(tl_spr)
-		local t_co = { x = current_cel.x, y = current_cel.y - 1 }
-		local t_spr = mget(t_co.x, t_co.y)
-		local t_f = fget(t_spr)
-		local r_co = { x = current_cel.x + 1, y = current_cel.y }
-		local r_spr = mget(r_co.x, r_co.y)
-		local r_f = fget(r_spr)
-		local l_co = { x = current_cel.x - 1, y = current_cel.y }
-		local l_spr = mget(l_co.x, l_co.y)
-		local l_f = fget(l_spr)
-		local br_co = { x = current_cel.x + 1, y = current_cel.y + 1 }
-		local br_spr = mget(br_co.x, br_co.y)
-		local br_f = fget(br_spr)
-		local bl_co = { x = current_cel.x - 1, y = current_cel.y +1 }
-		local bl_spr = mget(bl_co.x, bl_co.y)
-		local bl_f = fget(bl_spr)
-		local b_co = { x = current_cel.x, y = current_cel.y + 1 }
-		local b_spr = mget(b_co.x, b_co.y)
-		local b_f = fget(b_spr)
-		local c_co = { x = current_cel.x, y = current_cel.y }
-		local c_spr = mget(c_co.x, br_co.y)
-		local c_f = fget(c_spr)
-		
-		if tr_f != 0 then
-			add(_flagged_tiles,{ tile_co = tr_co, sprite = tr_spr, flags = tr_f })
-		end
-		if tl_f != 0 then
-			add(_flagged_tiles,{ tile_co = tl_co, sprite = tl_spr, flags = tl_f })
-		end
-		if t_f != 0 then
-			add(_flagged_tiles,{ tile_co = t_co, sprite = t_spr, flags = t_f })
-		end
-		if r_f != 0 then
-			add(_flagged_tiles,{ tile_co = r_co, sprite = r_spr, flags = r_f })
-		end
-		if l_f != 0 then
-			add(_flagged_tiles,{ tile_co = l_co, sprite = l_spr, flags = l_f })
-		end
-		if br_f != 0 then
-			add(_flagged_tiles,{ tile_co = br_co, sprite = br_spr, flags = br_f })
-		end
-		if bl_f != 0 then
-			add(_flagged_tiles,{ tile_co = bl_co, sprite = bl_spr, flags = bl_f })
-		end
-		if b_f != 0 then
-			add(_flagged_tiles,{ tile_co = b_co, sprite = b_spr, flags = b_f })
-		end
-		if c_f != 0 then
-			add(_flagged_tiles,{ tile_co = c_co, sprite = c_spr, flags = c_f })
-		end
-	end
 })
 
-:: collision.lua
---[[pod_format="raw",created="2024-05-17 20:59:47",modified="2024-06-08 23:32:09",revision=2261]]
-include './types.lua'
-include './util.lua'
-
-function collide(o,d,r,f)
-	r = r or 0
-	f = f or 0		
-	if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
-		return true
+function move_character(c)
+	_btn = btn()
+	if _btn != button.none then
+		c.state, c.start_move = "moving", time()
+		c.col_point = { x = (c.x+(c.max_width/2)), y = (c.y+(c.max_height/2)) }
+		if _btn == button.down_right then
+			c.i_dir = direction.down
+			c.col_point = { x = c.x+c.max_width, y = c.y+c.max_height}
+			if collide(c) == false then
+				c.y, c.x = c.y + (0.50 * c.spd), c.x + (1 * c.spd)
+			end
+		elseif _btn == button.up_left then
+			c.i_dir = direction.up
+			c.col_point = { x = c.x, y = c.y}
+			if collide(c) == false then
+				c.y, c.x = c.y - (0.50 * c.spd), c.x - (1 * c.spd)
+			end
+		elseif _btn == button.up_right then
+			c.i_dir = direction.up
+			c.col_point = { x = c.x+c.max_width, y = c.y }
+			if collide(c) == false then
+				c.y, c.x = c.y - (0.50 * c.spd), c.x + (1 * c.spd)
+			end
+		elseif _btn == button.down_left then
+			c.i_dir = direction.down
+			c.col_point = { x = c.x+1, y = c.y+c.max_height}
+			if collide(c) == false then
+				c.y, c.x = c.y + (0.50 * c.spd), c.x - (1 * c.spd)
+			end
+		elseif _btn == button.right then
+			c.i_dir = direction.right
+			c.col_point = { x = c.x+c.max_width, y = c.y+(c.max_height/2)}
+			if collide(c) == false then
+				c.x = c.x + (1 * c.spd)
+			end
+		elseif _btn == button.left then
+			c.i_dir = direction.left
+			c.col_point =  { x = c.x, y = c.y+(c.max_height/2)}
+			if collide(c) == false then
+				c.x = c.x - (1 * c.spd)
+			end
+		elseif _btn == button.down then
+			c.i_dir = direction.down
+			c.col_point = { x = c.x+(c.max_width/2), y = c.y+c.max_height}
+			if collide(c) == false then
+				c.y = c.y + (1 * c.spd)
+			end
+		elseif _btn == button.up then
+			c.i_dir = direction.up
+			c.col_point = { x = c.x+(c.max_width/2), y = c.y}
+			if collide(c) == false then
+				c.y = c.y - (1 * c.spd)
+			end
+		end
+	else
+		c.state = "idle"
+		c.col_point = { x = (c.x+(c.max_width/2)), y = (c.y+(c.max_height/2)) }
+		c.start_idle = time()
 	end
-	return false
+	c.select_point = { x = (c.x+(c.max_width/2)), y = (c.y+(c.max_height/2)) }
 end
+
+function animate_character(c)
+	if c.state == "idle" then
+		if c.i_dir == direction.down then
+			animate_sprite(
+				c,
+				c.d_i_f.sf,
+				c.d_i_f.nf,
+				c.d_i_f.s,
+				c.d_i_f.fl
+			)
+		elseif c.i_dir == direction.up then
+			animate_sprite(
+				c,
+				c.u_i_f.sf,
+				c.u_i_f.nf,
+				c.u_i_f.s,
+				c.u_i_f.fl
+			)
+		elseif c.i_dir == direction.left then
+			animate_sprite(
+				c,
+				c.l_i_f.sf,
+				c.l_i_f.nf,
+				c.l_i_f.s,
+				c.l_i_f.fl
+			)
+		elseif c.i_dir == direction.right then
+			animate_sprite(
+				c,
+				c.r_i_f.sf,
+				c.r_i_f.nf,
+				c.r_i_f.s,
+				c.r_i_f.fl
+			)
+		end
+	end
+	if c.state == "moving" then
+		if c.i_dir == direction.right then
+			animate_sprite(
+				c,
+				c.r_m_f.sf,
+				c.r_m_f.nf,
+				c.r_m_f.s,
+				c.r_m_f.fl
+			)
+		elseif c.i_dir == direction.left then
+			animate_sprite(
+				c,
+				c.l_m_f.sf,
+				c.l_m_f.nf,
+				c.l_m_f.s,
+				c.l_m_f.fl
+			)
+		elseif c.i_dir == direction.down then
+			animate_sprite(
+				c,
+				c.d_m_f.sf,
+				c.d_m_f.nf,
+				c.d_m_f.s,
+				c.d_m_f.fl
+			)
+		elseif c.i_dir == direction.up then
+			animate_sprite(
+				c,
+				c.u_m_f.sf,
+				c.u_m_f.nf,
+				c.u_m_f.s,
+				c.u_m_f.fl
+			)
+		end	
+	end
+end
+
+function scan_character_area(c)
+	local current_cel = { x = c.select_point.x/_tile_size, y = c.select_point.y/_tile_size}
+	local tr_co = { x = current_cel.x + 1, y = current_cel.y - 1 }
+	local tr_spr = mget(tr_co.x, tr_co.y)
+	local tr_f = fget(tr_spr)
+	local tl_co = { x = current_cel.x - 1, y = current_cel.y - 1 }
+	local tl_spr = mget(tl_co.x, tl_co.y)
+	local tl_f = fget(tl_spr)
+	local t_co = { x = current_cel.x, y = current_cel.y - 1 }
+	local t_spr = mget(t_co.x, t_co.y)
+	local t_f = fget(t_spr)
+	local r_co = { x = current_cel.x + 1, y = current_cel.y }
+	local r_spr = mget(r_co.x, r_co.y)
+	local r_f = fget(r_spr)
+	local l_co = { x = current_cel.x - 1, y = current_cel.y }
+	local l_spr = mget(l_co.x, l_co.y)
+	local l_f = fget(l_spr)
+	local br_co = { x = current_cel.x + 1, y = current_cel.y + 1 }
+	local br_spr = mget(br_co.x, br_co.y)
+	local br_f = fget(br_spr)
+	local bl_co = { x = current_cel.x - 1, y = current_cel.y +1 }
+	local bl_spr = mget(bl_co.x, bl_co.y)
+	local bl_f = fget(bl_spr)
+	local b_co = { x = current_cel.x, y = current_cel.y + 1 }
+	local b_spr = mget(b_co.x, b_co.y)
+	local b_f = fget(b_spr)
+	local c_co = { x = current_cel.x, y = current_cel.y }
+	local c_spr = mget(c_co.x, br_co.y)
+	local c_f = fget(c_spr)
+	
+	if tr_f != 0 then
+		add(_flagged_tiles,{ tile_co = tr_co, sprite = tr_spr, flags = tr_f })
+	end
+	if tl_f != 0 then
+		add(_flagged_tiles,{ tile_co = tl_co, sprite = tl_spr, flags = tl_f })
+	end
+	if t_f != 0 then
+		add(_flagged_tiles,{ tile_co = t_co, sprite = t_spr, flags = t_f })
+	end
+	if r_f != 0 then
+		add(_flagged_tiles,{ tile_co = r_co, sprite = r_spr, flags = r_f })
+	end
+	if l_f != 0 then
+		add(_flagged_tiles,{ tile_co = l_co, sprite = l_spr, flags = l_f })
+	end
+	if br_f != 0 then
+		add(_flagged_tiles,{ tile_co = br_co, sprite = br_spr, flags = br_f })
+	end
+	if bl_f != 0 then
+		add(_flagged_tiles,{ tile_co = bl_co, sprite = bl_spr, flags = bl_f })
+	end
+	if b_f != 0 then
+		add(_flagged_tiles,{ tile_co = b_co, sprite = b_spr, flags = b_f })
+	end
+	if c_f != 0 then
+		add(_flagged_tiles,{ tile_co = c_co, sprite = c_spr, flags = c_f })
+	end
+end
+
+function update_character_vitals(c)
+	if c.state == "idle" and c.health < 70 then
+		last_update_move, current_update = 0, time_since(start_idle, time())
+		if current_update != last_update_idle then
+			last_update_idle = current_update
+			c.health += 0.05
+			c.hunger += 0.01
+			c.thirst += 0.02
+			if c.wound_health < 50 then
+				c.wound_health += 0.01
+			end
+			if c.pain > 50 then
+				c.pain -= 0.05
+			end
+		end
+	end
+	if c.state == "moving" then
+		last_update_idle, current_update = 0, time_since(start_move, time())
+		if current_update != last_update_move then
+			last_update_move = current_update
+			c.health -= 0.65
+			c.wound_health -= 0.25
+			c.pain += 0.1
+			c.hunger += 0.1
+			c.thirst += 0.1
+		end
+	end
+	if c.health < 50 
+		and c.wound_health < 50 
+		and c.pain > 70 
+		and c.hunger > 50 
+		and c.thirst > 50 then
+		last_update_idle, current_update = 0, time_since(start_move, time())
+		if current_update != last_update_move then
+			last_update_move = current_update
+			c.delirium += 0.1
+		end
+	end
+end
+
 :: inventory.lua
---[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-06-08 23:32:09",revision=2718]]
+--[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-06-09 22:00:39",revision=2930]]
 include './types.lua'
 include './util.lua'
 include './items.lua'
@@ -432,125 +403,143 @@ inventory=entity:new({
 	total_weight = 0,
 	capacity = 10,
 	contents={},
-	containers_contents={},
-	show = function(self)
-		if 		 (_m_x) > _c_x-360
-			and (_m_x) < (_c_x-121)
-			and (_m_y) > _c_y
-			and (_m_y) < (_c_y + 6)
-		then
-			self.oo_ui = false
-			self.open = true
-		else
-			self.oo_ui = true
-		end
-		if self.open == true then
-			spr(140,_c_x-360,_c_y)
-			spr(140,(_c_x-240)+1,_c_y)
-		else
-			spr(132,_c_x-360,_c_y)
-			spr(132,(_c_x-240)+1,_c_y)
-		end	
-		if not ((_m_y) < (_c_y+self.max_height)) and 
-			((_m_l_b == true
-			and self.oo_ui == true)
-			or (_m_r_b == true 
-			and self.oo_ui == true))
-		then
-			self.open = false
-		end
-	end,
-	add_to_inventory = function(item)
-		existing_item = nil
-		for i, s in pairs(self.contents) do
-			if s.sprite == item.sprite then
-				existing_item = s
-				del(self.contents, s)
-			end
-		end
-		if existing_item then
-			existing_item.quantity += 1
-			add(self.contents, existing_item)
-		else
-			slot = container_slot:new({quantity = 1, item = item})
-			add(self.contents, slot)
-		end
-	
-	end,
-	display_inventory_contents = function(self)
-		local current_y = flr(_c_y+13)
-		print("Inventory", self.inv_starting_x+11, current_y-11, 23)
-		self.total_weight = 0
-		for i, c in pairs(self.contents) do
-			c.starting_x = self.inv_starting_x
-			c.starting_y = current_y
-			c.ending_x = self.inv_starting_x+114
-			c.ending_y = current_y+8
-			if (_m_x) > c.starting_x
-				and (_m_x) < c.ending_x
-				and (_m_y) > c.starting_y
-				and (_m_y) < c.ending_y then
-				rect(c.starting_x-1, c.starting_y-2, c.ending_x+1, c.ending_y+1, 2)
-			end
-			spr(c.item.sprite,self.inv_starting_x,current_y, 23)
-			print(c.item.name,self.inv_starting_x+11, current_y, 23)
-			print(c.item.weight, self.inv_starting_x+80, current_y, 23)
-			print(c.quantity, self.inv_starting_x+103, current_y, 23)
-			current_y+=10
-			self.total_weight += (c.item.weight*c.quantity)
-		end
-	end,
-	display_container_contents = function(self)
-		local current_y = flr(_c_y+12)
-		print("Container(s)", self.cont_starting_x+11, current_y-11, 23)
-		for i, cc in pairs(self.container_contents) do
-			local m_is_on = false
-			cc.starting_x = self.cont_starting_x
-			cc.starting_y = current_y
-			cc.ending_x = self.cont_starting_x+100
-			cc.ending_y = current_y+8
-			if (_m_x) > cc.starting_x
-				and (_m_x) < cc.ending_x
-				and (_m_y) > cc.starting_y
-				and (_m_y) < cc.ending_y then
-				rect(cc.starting_x-1, cc.starting_y-1, cc.ending_x+1, cc.ending_y+1, 23)
-				m_is_on = true
-			end
-			spr(cc.item.sprite, self.cont_starting_x,current_y)
-			print(cc.item.name, self.cont_starting_x+11, current_y, 23)
-			print(cc.item.weight, self.cont_starting_x+80, current_y, 23)
-			print(cc.quantity, self.cont_starting_x+100, current_y, 23)
-			current_y+=9
-			if _m_l_b and m_is_on then
-				self.add_to_inventory(cc.item)
-			end
-		end
-	end,
-	display_inventory_weight = function(self)
-		local s_x = self.inv_starting_x-1
-		local s_y = _c_y+1
-		local p_c = (self.total_weight / self.capacity) * 100
-		local p_r = (7.3/100)*p_c
-		local e_x = s_x + p_r
-		local e_y = s_y + p_r
-		rectfill(s_x,s_y, e_x, e_y, 1)
-	end,
-	update = function(self)
-		self.inv_starting_x = flr(_c_x-358)
-		self.cont_starting_x = flr(_c_x-237)
-		-- test contents
-		self.show(self)
-		if self.open then
-			self.display_inventory_contents(self)
-			self.display_inventory_weight(self)
-			self.display_container_contents(self)
-		end	
-	end
 })
 
+function add_to_inventory(c_i,item)
+	existing_item = nil
+	for i, s in pairs(c_i.contents) do
+		if s.item.sprite == item.sprite then
+			existing_item = s
+			del(c_i.contents, s)
+		end
+	end
+	if existing_item then
+		existing_item.quantity += 1
+		add(c_i.contents, existing_item)
+	else
+		slot = container_slot:new({quantity = 1, item = item})
+		add(c_i.contents, slot)
+	end
+end
+
+function display_inventory_contents(c_i)
+	local current_y = flr(_c_y+13)
+	print("Inventory", c_i.inv_starting_x+11, current_y-11, 23)
+	c_i.total_weight = 0
+	for i, c in pairs(c_i.contents) do
+		c.starting_x = c_i.inv_starting_x
+		c.starting_y = current_y
+		c.ending_x = c_i.inv_starting_x+114
+		c.ending_y = current_y+8
+		if (_m_x) > c.starting_x
+			and (_m_x) < c.ending_x
+			and (_m_y) > c.starting_y
+			and (_m_y) < c.ending_y then
+			rect(c.starting_x-1, c.starting_y-2, c.ending_x+1, c.ending_y+1, 2)
+		end
+		spr(c.item.sprite,c_i.inv_starting_x,current_y, 23)
+		print(c.item.name,c_i.inv_starting_x+11, current_y, 23)
+		print(c.item.weight, c_i.inv_starting_x+80, current_y, 23)
+		print(c.quantity, c_i.inv_starting_x+103, current_y, 23)
+		current_y+=10
+		c_i.total_weight += (c.item.weight*c.quantity)
+	end
+end
+
+function display_container_contents(c_i)
+	local current_y = flr(_c_y+13)
+	print("Container(s)", c_i.cont_starting_x+11, current_y-11, 23)
+	for i, cc in pairs(c_i.container_contents) do
+		local m_is_on = false
+		cc.starting_x = c_i.cont_starting_x
+		cc.starting_y = current_y
+		cc.ending_x = c_i.cont_starting_x+114
+		cc.ending_y = current_y+8
+		if (_m_x) > cc.starting_x
+			and (_m_x) < cc.ending_x
+			and (_m_y) > cc.starting_y
+			and (_m_y) < cc.ending_y then
+			rect(cc.starting_x-1, cc.starting_y-2, cc.ending_x+1, cc.ending_y+1, 2)
+			m_is_on = true
+		end
+		spr(cc.item.sprite, c_i.cont_starting_x,current_y)
+		print(cc.item.name, c_i.cont_starting_x+11, current_y, 23)
+		print(cc.item.weight, c_i.cont_starting_x+80, current_y, 23)
+		print(cc.quantity, c_i.cont_starting_x+100, current_y, 23)
+		current_y+=10
+		if _m_l_b and m_is_on then
+			c_i.add_to_inventory(c_i,cc.item)
+			for k, ccc in pairs(_containers) do
+				if ccc.container_id == cc.container_id then
+					if cc.quantity > 1 then
+						for l, ccci in ccc.contents do
+							if cc.item.sprite == ccci.item.sprite then
+								ccci.quantity -= 1
+								cc.quantity -= 1
+							end
+						end
+					else
+						del(ccc, cc)
+						del(c_i.container_contents, cc)
+					end 
+				end
+			end
+		end
+	end
+end
+
+function show_inventory(c_i)
+	if      (_m_x) > _c_x-360
+		and (_m_x) < (_c_x-121)
+		and (_m_y) > _c_y
+		and (_m_y) < (_c_y + 6)
+	then
+		c_i.oo_ui = false
+		c_i.open = true
+	else
+		c_i.oo_ui = true
+	end
+	if c_i.open == true then
+		spr(140,_c_x-360,_c_y)
+		spr(140,(_c_x-240)+1,_c_y)
+	else
+		spr(132,_c_x-360,_c_y)
+		spr(132,(_c_x-240)+1,_c_y)
+	end	
+	if not ((_m_y) < (_c_y+c_i.max_height)) and 
+		((_m_l_b == true
+		and c_i.oo_ui == true)
+		or (_m_r_b == true 
+		and c_i.oo_ui == true))
+	then
+		c_i.open = false
+	end
+end
+
+function display_inventory_weight(c_i)
+	local s_x = c_i.inv_starting_x-1
+	local s_y = _c_y+1
+	local p_c = (c_i.total_weight / c_i.capacity) * 100
+	local p_r = (7.3/100)*p_c
+	local e_x = s_x + p_r
+	local e_y = s_y + p_r
+	rectfill(s_x,s_y, e_x, e_y, 1)
+end
+
+function update_inventory(c_i)
+	c_i.inv_starting_x = flr(_c_x-358)
+	c_i.cont_starting_x = flr(_c_x-237)
+	-- test contents
+	show_inventory(c_i)
+	if c_i.open then
+		c_i.display_inventory_contents(c_i)
+		c_i.display_inventory_weight(c_i)
+		c_i.display_container_contents(c_i)
+	end	
+end
 
 :: items.lua
---[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-06-08 23:32:09",revision=1362]]
+--[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-06-09 22:00:39",revision=1536]]
 item=entity:new({
 	sprite = 0,
 	name = "",
@@ -607,7 +596,7 @@ item_types = {
 	unique = 5,
 }
 :: main.lua
---[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-06-08 23:32:09",revision=3664]]
+--[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-06-09 22:00:39",revision=3838]]
 include './util.lua'
 include './character.lua'
 include './moodles.lua'
@@ -643,18 +632,16 @@ function _draw()
 	camera(c.x - (_w_w/2),c.y - (_w_h/2))
 	map()
 	display_moodles(m,c)
-	c:scan_area()
+	scan_character_area(c)
 	temp_update_tiles(i)
-	c:animate()
-	i:update()
-	i.container_contents = {}
+	animate_character(c)
+	update_inventory(i)
 	debug()
-	_flagged_tiles = {}
 end
 
 function _update()
-	c:move()
-	c:update_vitals()
+	move_character(c)
+	update_character_vitals(c)
 end
 
 function debug()
@@ -663,7 +650,7 @@ function debug()
 			.. " c_y: " .. _c_y, _c_x-480, _c_y+260)
 end
 :: moodles.lua
---[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-06-08 23:32:09",revision=2916]]
+--[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-06-09 22:00:39",revision=3089]]
 include './types.lua'
 include './util.lua'
 
@@ -841,43 +828,51 @@ moodle_sprites={
 	thirst_4 = 147,
 }
 :: static_interactable.lua
---[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-06-08 23:32:09",revision=2076]]
+--[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-06-09 22:00:39",revision=2274]]
 include './types.lua'
-include './collision.lua'
 include './util.lua'
+
+_container_id_index = 2
 
 container=entity:new({
 	max_capacity = 10,
 	container_id = 2,
 	contents = {},
-	get_contents = function(self)	
-			self.contents = {}
-			add(self.contents, container_slot:new({ quantity = 1, item = water_bottle:new({})}))
-			add(self.contents, container_slot:new({ quantity = 1, item = pain_killers:new({})}))
-	end 
 })
 
-draws=container:new({
-})
+function get_container_contents(cont)	
+	cont.contents = {}
+	add(cont.contents, container_slot:new({container_id = 3, quantity = 1, item = water_bottle:new({})}))
+	add(cont.contents, container_slot:new({container_id = 3, quantity = 1, item = pain_killers:new({})}))
+end
 
-function temp_update_tiles(inv)
-	inv.container_contents = {}
+
+function init_draws_container(ft)
+	spr(5,(flr(ft.tile_co.x)*_tile_size), ((flr(ft.tile_co.y)*_tile_size)+16))
+	if table_length(_containers) > 0 then
+		for i, cont in pairs(_containers) do
+			if cont.x == ft.tile_co.x and cont.y == ft.tile_co.y then
+				return
+			end
+		end
+	end
+	local draws = container:new({x=ft.tile_co.x, y=ft.tile_co.y})
+	_container_id_index += 1
+	c.container_id = _container_id_index
+	add(_containers, c)
+end
+
+function temp_update_tiles()
 	for i,ft in pairs(_flagged_tiles) do
 		if fget_precalc(ft.flags,1) == true then
 			if ft.sprite == 4 then
-				local c = draws:new({})
-				c.container_id = 3
-				draws:get_contents()
-				for j, itm in pairs(c.contents) do
-					add(inv.container_contents, itm)
-				end
-				spr(5,(flr(ft.tile_co.x)*_tile_size), ((flr(ft.tile_co.y)*_tile_size)+16))
+				init_draws_container(ft)
 			end
 		end
 	end
 end
 :: types.lua
---[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-06-08 23:32:09",revision=2841]]
+--[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-06-09 22:00:39",revision=3013]]
 class={
 	new=
 		function(self,tbl)
@@ -923,21 +918,38 @@ direction={
 	left = 3,
 	right = 4
 }
-:: until.lua
---[[pod_format="raw",created="2024-05-06 21:03:50",modified="2024-05-06 21:40:08",revision=95]]
-function coalesce(a, b)
-	if a == nil then
-		return b
-	else
-		return a
+:: util.lua
+--[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-06-09 22:00:39",revision=3067]]
+
+--object, start frame,
+--num frames, speed, flip
+function animate_sprite(o, sf, nf, sp, fl)
+	if(not o.a_la) o.a_la = sf
+	if(not o.a_ct) o.a_ct = 0
+	if(not o.a_st) o.a_st = 0
+	if(not o.fl) o.fl = false
+	o.a_ct += 1
+	if o.a_ct % (30/sp) == 0 then
+	 o.a_st += 1
+	 if(o.a_st == nf) o.a_st = 0
+	elseif o.a_la != sf then
+	o.a_st = 0
 	end
+
+	o.a_fr = sf + o.a_st
+	spr(o.a_fr, o.x, o.y, fl)
+	o.a_la = sf
 end
 
-function time_since(start, current)
-	return (flr(current) - flr(start))
+function collide(o,r,f)
+	r = r or 0
+	f = f or 0
+	if fget2(mget((o.col_point.x/_tile_size) + r, (o.col_point.y/_tile_size)) + r,f) then
+		return true
+	end
+	return false
 end
-:: util.lua
---[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-06-08 23:32:09",revision=2893]]
+
 function coalesce(a, b)
 	if a == nil then
 		return b
@@ -962,21 +974,23 @@ function fget_precalc(pcf, f)
 	return (pcf>>f)&1==1	
 end
 
-function list_contains()
-
+function table_length(t)
+	local length = 0
+	for i, c in pairs(t) do
+		length+=1
+	end
+	return length
 end
-
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjQ4OjQ3Iixtb2RpZmllZD0iMjAyNC0w
-Ni0wOCAyMzozMjoxMCIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
-MjAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjMzgiLHdvcmtz
-cGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNvbGxpc2lvbi5sdWEjMTAiLHdvcmtzcGFjZV9pbmRl
-eD0xfSx7bG9jYXRpb249InN0YXRpY19pbnRlcmFjdGFibGUubHVhIzM0Iix3b3Jrc3BhY2VfaW5k
-ZXg9MX0se2xvY2F0aW9uPSJpbnZlbnRvcnkubHVhIzU5Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xv
-Y2F0aW9uPSJpdGVtcy5sdWEjNyIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0ibW9vZGxl
-cy5sdWEjOTgiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InR5cGVzLmx1YSMxOSIsd29y
-a3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idXRpbC5sdWEjMjciLHdvcmtzcGFjZV9pbmRleD0x
-fSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFw
-LzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFj
-ZV9pbmRleD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
+Ni0wOSAyMjowMDozOSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+NDUiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjODIiLHdvcmtz
+cGFjZV9pbmRleD0xfSx7bG9jYXRpb249InN0YXRpY19pbnRlcmFjdGFibGUubHVhIzMyIix3b3Jr
+c3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJpbnZlbnRvcnkubHVhIzE0MyIsd29ya3NwYWNlX2lu
+ZGV4PTF9LHtsb2NhdGlvbj0iaXRlbXMubHVhIzciLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRp
+b249Im1vb2RsZXMubHVhIzE2OCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idHlwZXMu
+bHVhIzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWwubHVhIzU1Iix3b3Jrc3Bh
+Y2VfaW5kZXg9MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFjZV9pbmRleD0yfSx7bG9j
+YXRpb249Im1hcC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2NhdGlvbj0ic2Z4LzAuc2Z4
+Iix3b3Jrc3BhY2VfaW5kZXg9NH19XV1sejQABAAAAAMAAAAwbmls
 :: [eoc]
