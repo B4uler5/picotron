@@ -6,110 +6,110 @@ version 2
 :: sfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMiIscmV2aXNpb249NDYyNF1dbHo0APQSAAAjVwAA8g57WzBdPXtibXA9cHh1
+Ni0yMyAyMjowMTowMiIscmV2aXNpb249NTE2Nl1dbHo0APYSAAAuVwAA8g57WzBdPXtibXA9cHh1
 AEMgEBAE-QQWHRYdFj0WHQIAnwbdBu0G-QAG7QkAAPMAzSxmbGFncz0wLHBhbl94CADLeT0wLHpv
 b209N30sXAA5ABYdXgAv-cBCACsfDZoABQMJAB8NXwAcI-DwMQAfMTEAFOnxIPYg-xEB0R5RFlH_
 AgcAEwFLAB8ySwARhBISBPoD9gAaAwD-AgoJ-xEAGQ7RDhkOURZRDhn_DQAIbwn-GQLwFOoAGfEA
 CAgE9gAPEVEeERYRHlYeCAAfjisBJQ8xAAQcNjEAGw2cAQ9RAiANVAAf-YUAHR-dfgAJDzUCEx82
 NQIdDjEAD7YAGo8gIATw----8zQATQ_ZABAfOdQBHBod7QMfAF4AHD-9wBZCACwP7wEKGQ1eAC-9
 BFwAHL-AJrA2oEagRqA2AQMADg4hAg9bAApP9jDxsDMAHEAmwDawjQAvATYDAA8PjgAf8wcThmGG
-YY8RYY5hHk8THjchjmEeTR5hBgATMVAAHzNQABdjUEfxAAfhAgAfkZAAHB-N0wEHAgkAD2oCIA-5
-Ag0PSARADVQABS4CDwMAED8NoDZfAB1P8dD9EDMAHAUyAg8DAA4RDQMAD1kCGeALDAS6hhqGCgmP
-ERmOGVcCAAcAFU0GAD8JrxmuABw5QQfhAgD-ATEmgQchLxGRJy7BLvEj-RDcBP8ZAmECDwMAFw-C
-AwwPaAYvLzagAwAaD5AATQ8xAB5Q-Q4G-XibAS-9NzoAHZ8jBt0G-VcG-UU5AB1ADQb9STwAH2n9
-ASCPRqBGsDbAJvBKAR1P-QD2MDUAHhMNSAdPsCbwrboBgm_GBs0G-SxqAB4PMQD--8wf8jEAHS--
-HMUAHg8xAP--------------1fQVQK8XIB6YDhAOuA4ADsgOAA4YDyAIDRgNCA0oHjgNOA04HigN
-EAAR2AIAMTgNCAIAECgtAAUMAABBAL8gDpgOQB5YHnBeQIYAPDUoDxiIALMIHB6oLB6YPB6ITIwA
-NQwNLIwA-wUMDTwOAA5IfA4QDiiMDiAenA5Aro0AIdNoLxgOEA54PQ4ADnhNkQDxBAwYDA0MLR44
-DBgdDD0eKAwIDB0RANFIjR44nR4orR4YHQANAgA0LR4ICwAwPR7dAgAv-gGGABx0-xcB3xgfFwQA
-ky8YDyAPGA8gHwgAgi8YHxc-GA8gBAAPIAADF98EABM-GAAXDyAABDQABAQAFz8wAE-fGP8XswAa
-tHcGBP8XaP8gZR8XBQC8DxcADv8gYw4g-mP3FfMALTQuMDU5NTIzODA5NTI0WQCiLTguNzE5MDQ3
-NgYAAmgAGTJoANF0EgQQ-xRgIP5iAP7-AQB-TgD_YiD_YFoWDB8yKwMdLzEwMgAvAUsC8QufHg4Q
-Dr0OAA7NDgAOHQddBy0eHSc9Jx0eLQwAAB8C-hENvyANHg0MlwwNDgAODQx3DA0OEA4dfB0OIA6d
-DkAeXVMDD3wAMYAdAh69Eh6tIn8AEQJ-ABMCfwAQEi4AznwiDhAOPXIOIB4NgkYDD4AAEyBvHkUA
-cX0yDgAOfUKDAPcJPRIHIh4dJx0SJxIeLQcdMgciHk2CHj2ShQAgHh2DAL8eDRJ8Ih7SHtL_AXsA
-HUD-FwHSOgDDHiIHUgciHhInMicSDAAAFgAQAmoA7wINlw0CHhINdw0SHiJ9aQAhIHdE8gJwjyAP
-F-8gNgUAEAIFABAB_wL1AEUfF08gHxe-ID8XbyAfFyQAIj8gGQAxTyAPBAAxHyAfIQAFMgAXrxUA
-CTYAEx8ZAAA2ADFfID8QABQ-OgAzDyAPBABCHxffIBAAGk9CAFEvFy8gLz4AY38gLxdfIKYDDb4A
-NP8Xab8DDwUA9g-IBAhGNy41MwEAAy8CZC0xLjMxNgEAHzfGBAYfE8YEEE81NC4zYgAAGTAWAC8z
-NEsgJA-kBDbyC5wOEA68DgAOPD8gTA4ADiwNPA08HjxdPB48CgAIBgABFgAhPxCpB-4ELA07DSwO
-EA48PTwOIA6cDkAeXOwED4QAMTEsDxAIACEcGwcAwwwrHjxdOx48DTsNO4cAAAgAzzw9Sw4QDiyL
-DiAem-MEJYJ8HxAOEA6MLYoAEAxCCLIsCzwLPR48Wz0ePAoABwYA4SwNWz0eHB0LPQs9HgwtBwA_
-TTtNMwgP_AQUQN8QHxcEAPEATxA-IE8QHxc-EA8gPA4-CgCpXj0fFz0OPA49GwYAEF4KACQ9DgYA
-j00_TRvdG937fgAeL-DwMgCzAcYB9wWbDhAOuw4ADksvIEsOAA5bDVseawQA-hxbDQkNSx5LDSkN
-Ox47DUkNKw4ADisNSQ0bDhAOOw0pDSsOIA47LSsOQB5b0AIPgwAtcUsDHmsNOxOFACEbI4YAETOG
-ABMjhgAACAAAhgDPMw4QDisDLUMOIB6TzwIlcnsTDhAOiyOIACELM4kAYQtDHmsNUwQA4VsDDVMe
-SwMNCQ1DHjsDigAgKwODADEeGxMHACELMxUAX1MtQx7T0gIiydMe0x5TLyBDHmMNUwQAEVN1ABFD
-XwARM2wAAgYAH0NxACkv8PAyALMBvAHxEZoOEA66DgAOyg4ADloPIFoeWg0KDUoeag1aHtoeOg0K
-AgCVKh4qjRoeGg0IAgCzCg4ADhqNCg4QDiokAJ4aDiAOmg5AHlrNAg_LACm1Og8ZHmoNOhweqiyP
-AFksHiqNHI8AEQyPADEcDgCPABEM7w0_EA4q3g0PjwAYcHofGQ4QDoqlBSKKPZMA8QQKTR5aDAoM
-TR5qDF0eWn0eOgwNAgCVLR4qjB0eGgwIAgCVDR4aDYwdHgotIgAPrgUmNBkfFwQA9wJvGQ8gXxkf
-F18ZDyAPGQ8gTxQAACAAEz8YAAQEAPQDLxkfFy8ZjyAfGR8XHxkPIAgOAgARDxoAII4d7gURDQIA
-by0c3Rzd-A0D6-UKlw4QDrcOAA5XCFcOAA5HKEceVyhHHkdINwQAABAAEWceABG3LAB_IA6XDkAe
-V-QCD3IALPAHJw8SHkdIFx0eR0gHLR5XKAc9HmcIB2YQIGddLwC-bQ4QDjd9DiAeB43gAiWBdx8S
-DhAOhy1_ACEXPX8AlU0eVyhNHkdIPQQA-wA3HShNHic9CF0eF70eB83HAicwEh8XBACgbxIIXh8X
-XihOHQQANU5IPgQAABAAUm4IXh3eAgAf-YsCIA8yAP---wv-EQgIBCAWUBdADxwPEB8cIA4vEB4Q
-Hg0uEBcNJxBeEF4ATQAe8gQfIFAFDxVABS4gBQ4HLhAFJx4QCQABBQAfTlEAH-ICFkAGEAZgBhAX
-EAYgBwAHEAcGABAAAgBPFyAHUFEAHf8LQCgwOCAHKA8YECcIDhA3BhA3BiAnBjAXBkBrAT0fNjEA
-XV8SBPD-ETIAHPAgMH8XYA5xDkAOkQ4gDhEVAUURDhAOAQUPFg8gBS8WDyAPFgUBDhAOBR0PID0M
-HQUdAFAdBT0FHRUAMBF9ETUA8AFdEQ4wDgJxAg4gDgIfFVEbCxTgAhsdHxgLHSsCHistCi0hD-8Q
-GxUIGxUrDiAecR5ADnEOUA4hHiEOYA8THxEQGQ8TMLcAdkAIDxhbtgAxCApbtgDQCjstBQ4QHnEN
-BQ4wDrwAD7gAKi-wBHABYg_0AEMQILYAIh8WCAACtwAADgARPxYAAbsAoQ0PIAUMHQwFDA3AAH8F
-DQUdBQ0FxgBgDn0DDzEAbg_uAy47sQ4QBAAwIA6RVQEhfxVWARGdUwGMvQIe3Q4ADr16A18vExAs
-MH8AVhGdEQJIHnEMBUYDTy8TECuOAh8PBAEuDgABD3wAjg6PAg8xAJ7wDBEiBPAITxOgDkMOgA4j
-Dh8VAw5gDiMODw4PFQQAMAMOUA4AFBcQAAEPAHsfFwcPIA8ODABxMw4PFx8NAwoAETMGACAjHksA
-oAMuYA4DDgMOHxdbACFDDiMA8AFjDhMOMA6DDgMOMA4zLi8YCADwAGMOEwwOQB5DDhMIDlAuIw4A
-QGBODBhFAFZeYA5zDgQA0BMOQw5wDhMOACMOcD4FAP8XAS4AIw5gIR4ADhMOUBEMERAxQBEMAQwg
-ASxQDCEgDCEMUCEgQRCMORkAGAEfGRgBbzETDiAYATEDDjAZATEDDkAaAfEFAw5QTgwYLmAOQy5w
-DlMOgA4TDiOpAP8bAx6QDiMugC4jDoABPhMOcCEuEw5gQQA_UAEsARAxYCEMEAE8YDEADDEwDgEM
-DyYCoEVuUA6DWQAhIx4GAFAOAA4THjICIQBOBgAxDgEeOgIRIUEC-wURDBFwQQwBDIABPCGADCEA
-IYBBYBgBGQl_BDCBDjCIB0UFQQ4giAdxDxYBDSEOIDoIMB0BBQsAYAENDAUMDSUAAHoHIA1BNgCR
-LTEOQA4CMR8VfwcwGxFLqgRgGx0PGB078xVATTsOIHUHEBWBFuBhDmAOIQ4hDnAfEQ8TAAUAH0Cz
-AAwPUwQeDzEA--8X8AYVIgTwDU8T4A5DDsAOA08VAw6gDgMBBBUfGQQxkA4PGQQWHx0EMJAODw8E
-ei8XDyAHDw4PAJEXDpAODR8NDQ8GAPEZDpAOgw6QHmMegA4THiMeEw5gDjMOLQ4zDkAOUw4NDlMO
-IA5zDnMOAPMD8AiDHkMeTxhjHmMOIxwDDjMOAB5DDiMMCAsAcBAuIw4jCAwLAPAFMD4MGA8ZDC4j
-HkAOAx4MCwgeA043BCcAIwYAtBNgHhMuIw6QTgAOBgAhoDEGADEBHAEIAP8EPAAxsDwAESywHBAB
-DCEM8ABBMDkBHR8iOQFpLRAeOQEvDgA6ATuhEx6QTgBOoDEATjYB-wNBoAwRDAABPKAxAEywESAM
-IUBqArBELxsfGDIBVRMPGw8YNQFvEw8bCA8YOAEYIA4jOAEAsQYRHsQHMQ4ATgYAIDGgBgD-BwEc
-AbAxADygLBEAPJAMIQwBEBygQbBzAv8EYJBOADGgQTMBwKA8AQAMEQygTAAxoDQBLxFgDwU8HzQx
-AI0JOAMwYw6gpAEPBAABoR5jHqAuIy6QHoMtCQB5CfIMQA4zDkMOMw4gDvMBDgAOQw5jDkMeMw4D
-HiMesgEwEw6DrwEQPgYAQDAuYx7rAQIeAACwARWDqgEA8QEACAAA4QIyABNgVQUhAS5JBSKQQQ4A
-sC8YAQABIwGQTQBBBACvoC0QDSEN8AEtUOMCHB9w7AAYPy5jLuwAPgfyAFITYB4DPpgCDfAAEUHt
-AGBBAEGgIRD8AD-wAE3tABAP2gGNBrUEMQEuAQgAYEGQASMBAOIAQZBBAE0EAI8NIQ0QLbAtsNkB
-qTkOIz6kBQrvABBB2QEB0wIwECGg2AEP7AAa8QMOGQQwTxNwDkMOYD4jDkAOPxXHAFEfHw8gBwoA
-OQ8WDwwAIR8WCwDgIw4jDlAOAw4jDnAeEw5AABBQiQUAzwBPDhMOEwgABhFQOw4VUAwAALkFAQYA
-AFQFzzGQLxgBgDENgDENQHcEGV8OGQTwAsYAWSBAHsYAAEAABcYALj4TwAAPmQV3wxMiBPAKTxPA
-DkMOoFIPGYBSDxpwUg8XcEYPCgwABFIPEXCeAhFwUg9ggB4TDgMuFhAgAy4aACBTHhcB8AFzDiMO
-MA6TDiMOIA4zPi8YTyTxAnMOEw0jDiAeUw4TCCMOMC4zEACwQF4NGA4THkAOM377AhUTBQAQA5wP
-ESNmAABsEQCzAA8IAALgQQAxgBEtABEtcAENIQ0EAD1wQQCCEVctMC4xNgEAEzcyAUcxLjgzAQAO
-JwMPQAFNIHAuOgERcJgQADoBMWMeI4kQAEkEEJMwBANAAQE4ARMNOAGRCCMOQE4DDhMNOQGJDg0Y
-PlAOQ048AT_DDnBAAXQOsQIPTwB58QARGQTwBm8TgA5jDmAOA29hEjEPFgfYGBAVfAoAYxIgDx_L
-CgBGBOAPHw5QDg0fFg0MDRwNDmwBgFAeYx5QPi0_iQExDA4zQBIAvQEQU4kKIQ4D6wHyBwMOEC4z
-DjMuECOOIxDjEBMADmMOABOEBBhwBgBBMQAxcKEIgStgMQsACzFQBgAfIO8DBQ-RAEoA0xIRDOsE
-CNEAC9cAkO4Q4xAjDmMOI9UAAMMAC9cAD9EAPQB2EwsEAACvADAuQy4MAKBAHoMeIA4THkMeeyhR
-Mx4DHjOtAADYE48QPmM_EDNuM68ACnEBEwEAARMBtwDfDxgRDQANEQ2AHSAdQLEAHR8XsQAPAa0A
-Ti6DLhCxADAeYx4zAkMDbgMurwAAngAeI7cAD7EAMw-zDoQPsA0wBusOHw4IAAdAoDEAMe8OMBEs
-gPAOEABnET1wQSBoEVctNy43MgEABFMBPi4yNns0HzViAWMTkFMKAN8FMi0OI_EW4Q5DDkAOYw5j
-DiAOIw4zagEJZAEkHmNiAQFtAQJiAUIgHhMOZAFAMw5APmIBH0OnCgAHkAsHUgEPYgFTD6UMkQ8N
-AQACqQwClQ0BBADfDxghDQANIQ2gLSAtUBIBYk_ATiNOyAxNDokDDxIBTlBtPTV9fQ==
+YY8RYY5hHk8THjchjmEeTR5hBgATMVAAHzNQABdjUEfxAAfhAgAfkZAAHBAdKQQ-Fv3OsAEMDywE
+HR85LARADVQABRICDwMAED8NoDZfAB1P8dD9EDMAHAUWAg8DAA4RDQMADz0CGeALDAS6hhqGCgmP
+ERmOGTsCAAcAFU0GAD8JrxmuABw5QQfhAgD-ATEmgQchLxGRJy7BLvEj-RDABP8ZAmECDwMAFw_m
+AwwPTAYvLzagAwASD4kCIZMICAR2nxE-E78EAC6fEZ0AD84AO1D9Dgb9eKgBL-03OgAdnyMG3Qb9
+Vwb9RTkAHUANBv1JPAAfaQoCII9GoEawNsAm8FcBGgB1AD8A9jA1AB4TDTkHT7Am8K1XAh4PugFR
+b4YGzQb9LGoAHg8xAP--zB-yMQAdL-8cxQAeDzEA---------------V9BVArxcgHpgOEA64DgAO
+yA4ADhgPIAgNGA0IDSgeOA04DTgeKA0QABHYAgAxOA0IAgAQKC0ABQwAAEEAvyAOmA5AHlgecF5A
+hgA8NSgPGIgAswgcHqgsHpg8HohMjAA1DA0sjAD-BQwNPA4ADkh8DhAOKIwOIB6cDkCujQAh02gv
+GA4QDng9DgAOeE2RAPEEDBgMDQwtHjgMGB0MPR4oDAgMHREA0UiNHjidHiitHhgdAA0CADQtHggL
+ADA9Ht0CAC-_AYYAHHT-FwHfGB8XBACTLxgPIA8YDyAfCACCLxgfFz8YDyAEAA8gAAMX3wQAEz8Y
+ABcPIAAENAAEBAAXPzAAT98Y-xezABq0dwYE-xdo-yBlHxcFALwPFwAO-yBjDiD_YwQW8wAtNC4w
+NTk1MjM4MDk1MjRZAKItOC43MTkwNDc2BgACaAAZMmgAcDwKBAD-FypaAD8qHv0DAABMDgD_KtMV
+EzNhAEYxLjE2AQASN2AAHzRFAx0vMTAyAC8BZQLxC58eDhAOvQ4ADs0OAA4dB10HLR4dJz0nHR4t
+DAAAOQL_EQ2-IA0eDQyXDA0OAA4NDHcMDQ4QDh18HQ4gDp0OQB5dbQMPfAAxgB0CHr0SHq0ifwAR
+An8AEwJ-ABASLgDOfCIOEA49cg4gHg2CYAMPgAATIG8eRQBxfTIOAA59QoMA9wk9EgciHh0nHRIn
+Eh4tBx0yByIeTYIePZKFACAeHYMAvx4NEnwiHtIe0v4BewAdQP8XAdI6AMMeIgdSByIeEicyJxIM
+AAAWABACagDvAg2XDQIeEg13DRIeIn1pACEgd0QMA3CPIA8X-yA2BQAQAgUAEAEVA-UARR8XTyAf
+F78gPxdvIB8XJAAiPyAZADFPIA8EADEfIB8hAAUyABevFQAJNgATHxkAADYAMV8gPxAAFD86ADMP
+IA8EAEIfF98gEAAaT0IAUS8XLyAvPgBjfyAvF18gwAMNvgA0-xdp2QMPBQD2D_IECEY3LjUzAQAD
+LwJcLTEuMzGABArgBNF0EgQQ-xNgIP5iAP7-AQB9TgD_YiD_YEMFSDMyLjbNBANjADgyLjMBAAOh
+Ag-kBGbyC5wOEA68DgAOPD8gTA4ADiwNPA08HjxdPB48CgAIBgABFgAhPxDDB-4ELA07DSwOEA48
+PTwOIA6cDkAeXOwED4QAMTEsDxAIACEcGwcAwwwrHjxdOx48DTsNO4cAAAgAzzw9Sw4QDiyLDiAe
+m-MEJYJ8HxAOEA6MLYoAEAxcCLIsCzwLPR48Wz0ePAoABwYA4SwNWz0eHB0LPQs9HgwtBwA_TTtN
+TQgP_AQUQN8QHxcEAPEATxA-IE8QHxc-EA8gPA4-CgCpXj0fFz0OPA49GwYAEF4KACQ9DgYAj00_
+TRvdG937fgAeL-DwMgCzAcYB9wWbDhAOuw4ADksvIEsOAA5bDVseawQA-hxbDQkNSx5LDSkNOx47
+DUkNKw4ADisNSQ0bDhAOOw0pDSsOIA47LSsOQB5b0AIPgwAtcUsDHmsNOxOFACEbI4YAETOGABMj
+hgAACAAAhgDPMw4QDisDLUMOIB6TzwIlcnsTDhAOiyOIACELM4kAYQtDHmsNUwQA4VsDDVMeSwMN
+CQ1DHjsDigAgKwODADEeGxMHACELMxUAX1MtQx7T0gIiydMe0x5TLyBDHmMNUwQAEVN1ABFDXwAR
+M2wAAgYAH0NxACkv8PAyALMBvAHxEZoOEA66DgAOyg4ADloPIFoeWg0KDUoeag1aHtoeOg0KAgCV
+Kh4qjRoeGg0IAgCzCg4ADhqNCg4QDiokAJ4aDiAOmg5AHlrNAg_LACm1Og8ZHmoNOhweqiyPAFks
+HiqNHI8AEQyPADEcDgCPABEMCQ4_EA4q_A0PjwAYcHofGQ4QDoqlBSKKPZMA8QQKTR5aDAoMTR5q
+DF0eWn0eOgwNAgCVLR4qjB0eGgwIAgCVDR4aDYwdHgotIgAPrgUmNBkfFwQA9wJvGQ8gXxkfF18Z
+DyAPGQ8gTxQAACAAEz8YAAQEAPQDLxkfFy8ZjyAfGR8XHxkPIAgOAgARDxoAII4d7gURDQIAby0c
+3Rzd-A0D6-UKlw4QDrcOAA5XCFcOAA5HKEceVyhHHkdINwQAABAAEWceABG3LAB_IA6XDkAeV-QC
+D3IALPAHJw8SHkdIFx0eR0gHLR5XKAc9HmcIB4AQIGddLwC-bQ4QDjd9DiAeB43gAiWBdx8SDhAO
+hy1_ACEXPX8AlU0eVyhNHkdIPQQA-wA3HShNHic9CF0eF70eB83HAicwEh8XBACgbxIIXh8XXihO
+HQQANU5IPgQAABAAUm4IXh3eAgAf-YsCIA8yAP---wv-EQgIBCAWUBdADxwPEB8cIA4vEB4QHg0u
+EBcNJxBeEF4ATQAe8gQfIFAFDxVABS4gBQ4HLhAFJx4QCQABBQAfTlEAH-ICFkAGEAZgBhAXEAYg
+BwAHEAcGABAAAgBPFyAHUFEAHf8LQCgwOCAHKA8YECcIDhA3BhA3BiAnBjAXBkBrAT0fNjEAXV8S
+BPD-ETIAHPAgMH8XYA5xDkAOkQ4gDhEVAUURDhAOAQUPFg8gBS8WDyAPFgUBDhAOBR0PID0MHQUd
+AFAdBT0FHRUAMBF9ETUA8AFdEQ4wDgJxAg4gDgIfFVEbCxTgAhsdHxgLHSsCHistCi0hD-8QGxUI
+GxUrDiAecR5ADnEOUA4hHiEOYA8THxEQGQ8TMLcAdkAIDxhbtgAxCApbtgDQCjstBQ4QHnENBQ4w
+DrwAD7gAKi-wBHABYg_0AEMQILYAIh8WCAACtwAADgARPxYAAbsAoQ0PIAUMHQwFDA3AAH8FDQUd
+BQ0FxgBgDn0DDzEAbg_uAy47sQ4QBAAwIA6RVQEhfxVWARGdUwGMvQIe3Q4ADr16A18vExAsMH8A
+VhGdEQJIHnEMBUYDTy8TECuOAh8PBAEuDgABD3wAjg6PAg8xAJ7wDBUiBPAOTxPgDkMOwA4jDh8V
+Aw6gDiMODw4PFQQAMAMOkA4AFBcQAAEPAHsfFwcPIA8ODABxMw4PFx8NAwoAETMGACAjHksAoAMu
+oA4DDgMOHxdbACFDDiMA8AFjDhMOcA6DDgMOcA4zLi8YCADwAGMOEwwOgB5DDhMIDpAuIw4AQKBO
+DBhFAFZeoA5zDgQA0BMOQw6wDhMOACMOsD4FAP8XAS4AIw6gIR4ADhMOkBEMERAxgBEMAQwgASyQ
+DCEgDCEMkCEgQTCXORkAGAEfIxgBbzETDmAYATEDDnAZATEDDoAaAfEFAw6QTgwYLqAOQy6wDlMO
+wA4TDiOpAP8bAx7QDiMuwC4jDsABPhMOsCEuEw6gQQA_kAEsARAxoCEMEAE8oDEADDFQDgEMDyYC
+oEVukA6DWQAhIx4GAFAOAA4THjICIQBOBgAxDgEeOgIRIUEC-wURDBGwQQwBDMABPCHADCEAIcBB
+gBgBGQl_BDCBDjCIB0UFQQ4giAdxDxYBDSEOIDoIMB0BBQsAYAENDAUMDSUAAHoHIA1BNgCRLTEO
+QA4CMR8VfwcwGxFLqgRgGx0PGB078xVATTsOIHUHEBWBFuBhDmAOIQ4hDnAfEQ8TAAUAH0CzAAwP
+UwQeDzEA--8XABcEFA0XBCEDTxYEEAMBBBcfGQQRDxkEGB8dBBAPDwR6LxcPIAcPDg8AkRcOkA4N
+Hw0NDwYAEQ7RA5AeYx6ADhMeIx4NBfEGMw4tDjMOQA5TDg0OUw4gDnMOcw4A8wPwCIMeQx5PGGMe
+Yw4jHAMOMw4AHkMOIwwICwBwEC4jDiMIDAsA9wswPgwYDxkMLiMeQA4DHgwLCB4DTlAOgw4AIwYA
+tBNgHhMuIw6QTgAOBgAhoDEGADEBHAEIAP8EPAAxsDwAESywHBABDCEM8ABBMDkBHR8iOQFpLRAe
+OQEvDgA6ATuhEx6QTgBOoDEATjYBYUGgDBEMAH0Gf0ywESAMIUBqArBELxsfGDIBVRMPGw8YNQFv
+Ew8bCA8YOAEYQg4jLiOxBjEeAx4IABFOBgAQMR4H-wgAARwBsDEAPKAsEQA8kAwhDAEQHKBBsHMC
+-wRgkE4AMaBBMwGgoDwBAAwRDKBMAPoITwEQEWAPBTwfNDEAjQk4AzBjDqCkAQ8EAAHhHmMeoC4j
+LpAegx5gDhN5CfIMQA4zDkMOMw4gDvMBDgAOQw5jDkMeMw4DHiMesgEwEw6DrwEQPgYAQDAuYx7r
+AQIeAACwARWDqgEA8QEACAAA4QIyABNgVQUhAS5JBSKQQQ4AsC8YAQABIwGQTQBBBACvoC0QDSEN
+8AEtUOMCHB9w7AAYPy5jLuwAPgfyAFITYB4DPpgCDfAAEUHtAGBBAEGgIRD8AD-wAE3tABAP2gGN
+BrUEMQEuAQgAYEGQASMBAOIAQZBBAE0EAI8NIQ0QLbAtsNkBqTkOIz6kBQrvABBB2QEB0wIwECGg
+2AEP7AAa8QMOGQQwTxNwDkMOYD4jDkAOPxXHAFEfHw8gBwoAOQ8WDwwAIR8WCwDAIw4jDlAOAw4j
+DnAeNg0wQw5QiQUAzwBPDhMOEwgABhFQOw4VUAwAALkFAQYAAFQFzzGQLxgBgDENgDENQHcEGV8O
+GQTwAsYAWSBAHsYAAEAABcYALj4TwAAPmQWED1IPPyEeE1IPAAYAABoAEVNNARFzXQERkykB8Qoz
+Pi8YMw4wDnMOEw0jDkAeUw4TCCMOUC4zEACwYF4NGA4THmAOM36ADxUTBQBhA4AOQw4jZgAAbBEB
+nAgPCAAB4EEAMaARLQARLZABDSENBAAAFQMbICIBKS0w2i0FDilNMS44Mw0pHzZAAVggkC46ARGQ
+mBAAOgEgYx46AQAkBDBADpMqBANAAQE4ARMNOAGRCCMOYE4DDhMNOQGJDg0YPnAOQ048AQCpBA9A
+AXMOsQIPTwB58QgRGQTwBm8TgA5jDmAOA28VAw5QDg8WB9gYEBV8ChAVEQAQH4sKAEYE0Q8fDlAO
+DR8WDQwNHA2pAYBQHmMeUD4tPgAGEgyxARAuBgYQU4kKIQ4D6wHyBwMOEC4zDjMuECOOIxDjEBMA
+DmMOABOEBBhwBgBBMQAxcKEIgStgMQsACzFQBgAfIO8DBQ-RAEpSUA4jDgzCAwfRAAvXAJDuEOMQ
+Iw5jDiPVAADDAAvXAA-RAD08gw5QBAAArwAwLkMuDACgQB6DHiAOEx5DHnsoUTMeAx4zrQAA2BOP
+ED5jPhAzbjOvAApxARMBAAETAbcA3w8YEQ0ADRENgB0gHUCxAB0fF7EADwGtAE4ugy4QsQAwHmMe
+MwJDA24DLq8AAJ4AHiO3AA_xADMP8w6ED7ANMAEwChGQ6wQPCAAHQKAxADHvDjARLIDwDhAAZxEu
+cEHGF1ctNy43MgEABFMBPi4yNpU0HzViAWMTkFMKkIAOIw4tDiMOYOEW4Q5DDkAOYw5jDiAOIw4z
+agEJZAEkHmNiAQFtAQJiAUIgHhMOZAFAMw5APmIBH0OnCgAHkAsHUgEPYgFTD6UMkQ8NAQACqQwC
+lQ0BBADfDxghDQANIQ2gLSAtUBIBYk_ATiNODgE_BxQBAAwBHy4KAQAPEgFMUG09NX19
 :: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMyJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0yMyAyMjowMTowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMiIscmV2aXNpb249NDI3Nl1dbHo0AEUBAAB2EAAA8Ah7e2JtcD11c2VyZGF0
-YSgiaTE2IiwzMgMAXyIwMDAzBAD7EDEEABM0BABXNjAwMTcQAAAEABY1LAAPgABCUmIwMDA0BABj
-MWMwMDFmCAAEBAAWZCwADwQAQTIyMzABAB8xBAAAXzIwMDI1gABQXzgwMDE5BAAAH2GAAF8vMmGA
-AGsPAAFuHziAAGMmMjl4AB8yAAFoLzE5AAFcUmIwMDJjBAAAiABmMDkwMDBhFAAeMgAEDwgBSgSA
-AC4wMwQAD4AAWSYxNAQALzAzgABgFmMEAC8wM4AAUwF3BRYxBAATMgQABCQAD4gCVQwEAC8wMwQA
----------7z0DiIpLGhpZGRlbj1mYWxzZSxwYW5feD0tMTMyLjUwAQARMRcAlnk9LTE4OC43NRcA
-knRpbGVfaD0xNgoAEHcKAIB6b29tPTJ9fQ==
+Ni0yMyAyMjowMTowMiIscmV2aXNpb249NDgwMF1dbHo0AFsBAAB3EAAA8Ah7e2JtcD11c2VyZGF0
+YSgiaTE2IiwzMgMAXyIwMDAzBAD7EDEEABM0BABXNjAwMTcQAAAEABY1LAAPgABCQGIwMDBoABNj
+BAAXZgwAAAQAFmQsAA8EAEEyMjMwAQAfMQQAAF8yMDAyNYAAUF84MDAxOQQAAB9hgABfLzJhgABr
+DwABbh84gABjJjI5eAAfMgABaC8xOQABXFJiMDAyYwQAAIgAZjA5MDAwYRQAHzIABEgqMTQEAAiA
+AC8wMwQATyoxYwQACAABJjE0BAAvMDMEAEQaMQQAGDGAAAiYAB8zBABPIzIzhwAWMQQAEzIEAAQk
+AA_IAlUMBAAvMDMEAP---yceMQwADwQA-----2-0DiIpLGhpZGRlbj1mYWxzZSxwYW5feD0tMTMy
+LjUwAQARMRcAhnk9LTgwLjc1FgCSdGlsZV9oPTE2CgAQdwoAoHpvb209MC41fX0=
 :: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMyJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0yMyAyMjowMTowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjEwIixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMiIscmV2aXNpb249NDA0NF1dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
+Ni0yMyAyMjowMTowMiIscmV2aXNpb249NDU1NF1dbHo0ACcBAADtFwAA-yxweHUAAygAAAQABA9A
 EAIOAAGgASACoA4ADxAADfDKAQIDBAUGBwAP-5AICQoLDwwPDQ8ODw8AD--w-wEA6-8n0gEQBg8g
 EAEgASAB8AACEAIMEAEgDyEgATAPQPDDDygP--DGD-gKD-8PgA-3Dw0B8AkBEAYMMAAcIg9AMQCD
 D2-gAhACDz0zAE-wxw9CYgAdDzAA------9FH-8BAKz-XcgPQAACQB8TDxQPFQ8WDxcPGA8aDx0M
@@ -117,9 +117,9 @@ DyQPKQ8vDzMPOA88D0EPRQ9IH0oPRw9FD0EPPw89DzcPMg8vDywPKP--EfIP-hEPPQ8-X0BfPw8_
 Dz1PPB87HzovOV84DzkeAf4K8HAPQAAPEED_sAoA--------------------fFD_sPD-OQ==
 :: sfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjI2OjA5Iixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMyJdXWx6NAAEAAAAAwAAADBuaWw=
+Ni0yMyAyMjowMTowMiJdXWx6NAAEAAAAAwAAADBuaWw=
 :: character.lua
---[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-06-18 22:01:32",revision=4497]]
+--[[pod_format="raw",created="2024-05-05 22:21:00",modified="2024-06-23 22:01:02",revision=5066]]
 include './types.lua'
 include './util.lua'
 
@@ -178,48 +178,56 @@ function move_man(c)
 		if _btn == button.down_right or (_s and _d) then
 			c.i_dir = direction.down
 			c.col_point = { x = c.x+c.max_width, y = c.y+c.max_height}
+			c.select_point = { x = (c.x+c.max_width)-8, y = (c.y+c.max_height)-8 }
 			if collide(c) == false then
 				c.y, c.x = c.y + (0.50 * c.spd), c.x + (1 * c.spd)
 			end
 		elseif _btn == button.up_left or (_w and _a) then
 			c.i_dir = direction.up
 			c.col_point = { x = c.x, y = c.y}
+			c.select_point = { x = c.x+8, y = c.y+8 }
 			if collide(c) == false then
 				c.y, c.x = c.y - (0.50 * c.spd), c.x - (1 * c.spd)
 			end
 		elseif _btn == button.up_right or (_w and _d) then
 			c.i_dir = direction.up
 			c.col_point = { x = c.x+c.max_width, y = c.y }
+			c.select_point = { x = ((c.x+c.max_width)-8), y = (c.y+8) }
 			if collide(c) == false then
 				c.y, c.x = c.y - (0.50 * c.spd), c.x + (1 * c.spd)
 			end
 		elseif _btn == button.down_left or (_s and _a) then
 			c.i_dir = direction.down
 			c.col_point = { x = c.x+1, y = c.y+c.max_height}
+			c.select_point = {x = (c.x+1)+8, y = (c.y+c.max_height)-8}
 			if collide(c) == false then
 				c.y, c.x = c.y + (0.50 * c.spd), c.x - (1 * c.spd)
 			end
 		elseif _btn == button.right or _d then
 			c.i_dir = direction.right
 			c.col_point = { x = c.x+c.max_width, y = c.y+(c.max_height/2)}
+			c.select_point = { x = (c.x+c.max_width)-8, y = c.y+(c.max_height/2)}
 			if collide(c) == false then
 				c.x = c.x + (1 * c.spd)
 			end
 		elseif _btn == button.left or _a then
 			c.i_dir = direction.left
 			c.col_point =  { x = c.x, y = c.y+(c.max_height/2)}
+			c.select_point = { x = c.x+8, y = c.y+(c.max_height/2) }
 			if collide(c) == false then
 				c.x = c.x - (1 * c.spd)
 			end
 		elseif _btn == button.down or _s then
 			c.i_dir = direction.down
 			c.col_point = { x = c.x+(c.max_width/2), y = c.y+c.max_height}
+			c.select_point = { x = c.x+(c.max_width/2), y = (c.y+c.max_height)-8 }
 			if collide(c) == false then
 				c.y = c.y + (1 * c.spd)
 			end
 		elseif _btn == button.up or _w then
 			c.i_dir = direction.up
 			c.col_point = { x = c.x+(c.max_width/2), y = c.y}
+			c.select_point = { x = c.x+(c.max_width/2), y = (c.y+8) }
 			if collide(c) == false then
 				c.y = c.y - (1 * c.spd)
 			end
@@ -229,7 +237,6 @@ function move_man(c)
 		c.col_point = { x = (c.x+(c.max_width/2)), y = (c.y+(c.max_height/2)) }
 		c.start_idle = time()
 	end
-	c.select_point = { x = (c.x+(c.max_width/2)), y = (c.y+(c.max_height/2)) }
 end
 
 function move_boy(c,b)
@@ -347,7 +354,7 @@ function scan_character_area(c)
 	local b_spr = mget(b_co.x, b_co.y)
 	local b_f = fget(b_spr)
 	local c_co = { x = current_cel.x, y = current_cel.y }
-	local c_spr = mget(c_co.x, br_co.y)
+	local c_spr = mget(c_co.x, c_co.y)
 	local c_f = fget(c_spr)
 	
 	if tr_f != 0 then
@@ -381,7 +388,7 @@ end
 
 function update_character_vitals(c)
 	if c.state == "idle" and c.health < 70 then
-		last_update_move, current_update = 0, time_since(start_idle, time())
+		last_update_move, current_update = 0, time_since(start_idle, time(), true)
 		if current_update != last_update_idle then
 			last_update_idle = current_update
 			c.health += 0.05
@@ -396,7 +403,7 @@ function update_character_vitals(c)
 		end
 	end
 	if c.state == "moving" then
-		last_update_idle, current_update = 0, time_since(start_move, time())
+		last_update_idle, current_update = 0, time_since(start_move, time(), true)
 		if current_update != last_update_move then
 			last_update_move = current_update
 			c.health -= 0.65
@@ -411,7 +418,7 @@ function update_character_vitals(c)
 		and c.pain > 70 
 		and c.hunger > 50 
 		and c.thirst > 50 then
-		last_update_idle, current_update = 0, time_since(start_move, time())
+		last_update_idle, current_update = 0, time_since(start_move, time(), true)
 		if current_update != last_update_move then
 			last_update_move = current_update
 			c.delirium += 0.1
@@ -420,7 +427,7 @@ function update_character_vitals(c)
 end
 
 :: containers.lua
---[[pod_format="raw",created="2024-06-18 20:28:00",modified="2024-06-18 22:01:32",revision=201]]
+--[[pod_format="raw",created="2024-06-18 20:28:00",modified="2024-06-23 22:01:02",revision=774]]
 include './types.lua'
 include './util.lua'
 
@@ -442,17 +449,17 @@ function init_containers()
 		contents = {
 			container_slot:new(
 				{
-					quantity = 1, 
+					quantity = 20, 
 					item = water_bottle:new({})
 				}
 			)
 		}
 	})
-	_containers["6_3"] = container:new({
-		max_capacity=50,
-		small_icon = 6,
-		in_range_sprite = 5,
-		in_range_sprite_adjustment = {x=-1,y=1},
+	_containers["7_2"] = container:new({
+		max_capacity=10,
+		small_icon = 38,
+		in_range_sprite = 30,
+		in_range_sprite_adjustment = {x=2,y=5},
 		in_range = false,
 		contents = {
 			container_slot:new(
@@ -464,8 +471,85 @@ function init_containers()
 		}
 	})
 end
+:: context_menu.lua
+--[[pod_format="raw",created="2024-06-19 22:02:44",modified="2024-06-23 22:01:02",revision=445]]
+context_menu=entity:new({
+	x = 0,
+	y = 0,
+	oo_ui = true,
+	open = false,
+	options={},
+	max_width = 60,
+	current_obj = nil,
+})
+
+context_option=entity:new({
+	name = nil,
+	m_is_on = false,
+	action = nil
+})
+
+context_menu_actions = {
+	consume = "Consume",
+	discard = "Discard",
+	use = "Use",
+	equip = "Equip",
+}
+
+function draw_context_menu()
+	if _cm.open then
+		if _m_x > (_cm.x-10)
+		and _m_x < (_cm.x+64)
+		and _m_y > (_cm.y-10)
+		and _m_y < (_cm.y+(table_length(_cm.options)*10)) then
+			_cm.open = true
+		else
+			_cm.open = false
+			_cm.options = {}
+		end	
+		
+		local current_offset = 0
+		for i, o in pairs(_cm.options) do
+			rectfill(_cm.x, _cm.y+current_offset, _cm.x+60, _cm.y+current_offset+12,0)
+			rect(_cm.x, _cm.y+current_offset, _cm.x+60, _cm.y+current_offset+12,23)
+			print(o.name, _cm.x+2, _cm.y+1+current_offset)
+			if _m_x > _cm.x 
+			and _m_x < _cm.x+60 
+			and _m_y > _cm.y+current_offset 
+			and _m_y < _cm.y+current_offset+12 then
+				rect(_cm.x+1, _cm.y+current_offset+1, _cm.x+59, _cm.y+current_offset+11,2)
+				o.m_is_on = true
+			end
+			current_offset += 12
+		end
+	end	
+end
+
+function update_context_menu(obj)
+	local s_x, s_y = _m_x, _m_y+6
+	_cm.open = true
+	_cm.options = {}
+	_cm.current_obj = obj
+	_cm.x, _cm.y = s_x, s_y
+	if obj.type == object_type.item then
+		if obj.item_type == item_type.consumable then
+			add(_cm.options, context_option:new({name = context_menu_actions.consume, action = obj.consume}))
+			add(_cm.options, context_option:new({name = context_menu_actions.discard}))
+		end
+	end
+end
+
+function execute_context_menu_option(c, a)
+	if _cm.open and _m_l_b then
+		for i, o in pairs(_cm.options) do
+			if o.m_is_on then
+				o.action(_cm.current_obj, c, a)
+			end
+		end
+	end
+end
 :: inventory.lua
---[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-06-18 22:01:32",revision=3826]]
+--[[pod_format="raw",created="2024-05-14 20:53:29",modified="2024-06-23 22:01:02",revision=4445]]
 include './types.lua'
 include './util.lua'
 include './items.lua'
@@ -484,21 +568,47 @@ inventory=entity:new({
 	contents={},
 })
 
-function add_to_inventory(c_i,item)
-	existing_item = nil
-	for i, s in pairs(c_i.contents) do
-		if s.item.sprite == item.sprite then
-			existing_item = s
-			del(c_i.contents, s)
+function dc_in_range_any(t)
+	for i, dc in pairs(t) do
+		if dc.in_range then
+			return true
 		end
 	end
-	if existing_item then
-		existing_item.quantity += 1
-		add(c_i.contents, existing_item)
+	return false
+end
+
+function remove_item_from_container(ccc, item)
+	for i, cc in pairs(ccc.contents) do
+		if cc.item.sprite == item.sprite then
+			if cc.quantity <= 1 then
+				del(ccc.contents,cc)
+			else
+				cc.quantity -=1
+			end
+		end
+	end
+end
+
+function add_to_inventory(c_i, cc, item)
+	local existing_item_index = 0
+	local total_weight = 0
+	for i, s in pairs(c_i.contents) do
+		if s.item.sprite == item.sprite then
+			existing_item_index = i
+		end
+		total_weight += s.item.weight * s.quantity
+	end
+	if (total_weight + item.weight) > c_i.max_capacity then
+		print("Can't carry anymore.", _m_x, _m_y+6, 8)
+		return
+	end
+	if existing_item_index > 0 then
+		c_i.contents[existing_item_index].quantity += 1
 	else
 		slot = container_slot:new({quantity = 1, item = item})
 		add(c_i.contents, slot)
 	end
+	remove_item_from_container(cc, item)
 end
 
 function display_inventory_contents(c_i)
@@ -522,6 +632,13 @@ function display_inventory_contents(c_i)
 		print(c.quantity, c_i.inv_starting_x+103, current_y, 23)
 		current_y+=10
 		c_i.total_weight += (c.item.weight*c.quantity)
+		if(m_is_on) then
+			if _m_l_b then
+				add_to_inventory(c_i, cc, ccc.item)
+			elseif _m_r_b then
+				update_context_menu(ccc.item)
+			end
+		end
 	end
 end
 
@@ -531,46 +648,53 @@ function display_container_contents(c_i)
 	local cont_icn_x = c_i.cont_starting_x+2
 	local cont_icn_y = current_y+45
 	for i, cc in pairs(_discovered_containers) do
-		if cc.in_range == false then	return end
-
-		local cont_icn_b_s_x = cont_icn_x - 1
-		local cont_icn_b_s_y = cont_icn_y - 1
-		local cont_icn_b_e_x = cont_icn_x + 8
-		local cont_icn_b_e_y = cont_icn_y + 8
-		if i == c_i.selected_container or c_i.selected_container == 1 then
-			c_i.selected_container = i
-			rect(cont_icn_b_s_x, cont_icn_b_s_y, cont_icn_b_e_x, cont_icn_b_e_y, 2)
-			spr(cc.small_icon, cont_icn_x, cont_icn_y)
-			for j, ccc in ipairs(cc.contents) do
-				local m_is_on = false
-				ccc.starting_x = c_i.cont_starting_x
-				ccc.starting_y = current_y
-				ccc.ending_x = c_i.cont_starting_x+114
-				ccc.ending_y = current_y+8
-				if (_m_x) > ccc.starting_x
-				and (_m_x) < ccc.ending_x
-				and (_m_y) > ccc.starting_y
-				and (_m_y) < ccc.ending_y then
-					rect(ccc.starting_x-1, ccc.starting_y-2, ccc.ending_x+1, ccc.ending_y+1, 2)
-					m_is_on = true
+		if cc.in_range == true then
+			local cont_icn_b_s_x = cont_icn_x - 1
+			local cont_icn_b_s_y = cont_icn_y - 1
+			local cont_icn_b_e_x = cont_icn_x + 8
+			local cont_icn_b_e_y = cont_icn_y + 8
+			if i == c_i.selected_container or c_i.selected_container == 1 then
+				c_i.selected_container = i
+				rect(cont_icn_b_s_x, cont_icn_b_s_y, cont_icn_b_e_x, cont_icn_b_e_y, 2)
+				spr(cc.small_icon, cont_icn_x, cont_icn_y)
+				for j, ccc in ipairs(cc.contents) do
+					local m_is_on = false
+					ccc.starting_x = c_i.cont_starting_x
+					ccc.starting_y = current_y
+					ccc.ending_x = c_i.cont_starting_x+114
+					ccc.ending_y = current_y+8
+					if (_m_x) > ccc.starting_x
+					and (_m_x) < ccc.ending_x
+					and (_m_y) > ccc.starting_y
+					and (_m_y) < ccc.ending_y then
+						rect(ccc.starting_x-1, ccc.starting_y-2, ccc.ending_x+1, ccc.ending_y+1, 2)
+						m_is_on = true
+					end
+					spr(ccc.item.sprite, c_i.cont_starting_x,current_y)
+					print(ccc.item.name, c_i.cont_starting_x+11, current_y, 23)
+					print(ccc.item.weight, c_i.cont_starting_x+80, current_y, 23)
+					print(ccc.quantity, c_i.cont_starting_x+100, current_y, 23)
+					current_y+=10
+					if(m_is_on) then
+						if _m_l_b then
+							add_to_inventory(c_i, cc, ccc.item)
+						elseif _m_r_b then
+							update_context_menu(ccc.item)
+						end
+					end
 				end
-				spr(ccc.item.sprite, c_i.cont_starting_x,current_y)
-				print(ccc.item.name, c_i.cont_starting_x+11, current_y, 23)
-				print(ccc.item.weight, c_i.cont_starting_x+80, current_y, 23)
-				print(ccc.quantity, c_i.cont_starting_x+100, current_y, 23)
-				current_y+=10
+			else
+				rect(cont_icn_b_s_x, cont_icn_b_s_y, cont_icn_b_e_x, cont_icn_b_e_y, 21)
+				spr(cc.small_icon, cont_icn_x, cont_icn_y)
+				if _m_l_b and ((_m_x) > cont_icn_b_s_x
+				and (_m_x) < cont_icn_b_e_x
+				and (_m_y) > cont_icn_b_s_y
+				and (_m_y) < cont_icn_b_e_y) then
+					c_i.selected_container = i	
+				end
 			end
-		else
-			rect(cont_icn_b_s_x, cont_icn_b_s_y, cont_icn_b_e_x, cont_icn_b_e_y, 21)
-			spr(cc.small_icon, cont_icn_x, cont_icn_y)
-			if _m_l_b and ((_m_x) > cont_icn_b_s_x
-			and (_m_x) < cont_icn_b_e_x
-			and (_m_y) > cont_icn_b_s_y
-			and (_m_y) < cont_icn_b_e_y) then
-				c_i.selected_container = i	
-			end
+			cont_icn_x+=10
 		end
-		cont_icn_x+=10
 	end
 end
 
@@ -609,18 +733,27 @@ function display_inventory_weight(c_i)
 	local p_r = (7.3/100)*p_c
 	local e_x = s_x + p_r
 	local e_y = s_y + p_r
-	rectfill(s_x, s_y, e_x, e_y, 1)
+	local colour = 0
+	if p_c <= 25 then
+		colour = 28
+	elseif p_c > 25 and p_c <= 50 then
+		colour = 26
+	elseif p_c > 50 and p_c <= 75 then
+		colour = 9
+	else
+		colour = 8
+	end
+	rectfill(s_x, s_y, e_x, e_y, colour)
 end
 
 function update_inventory(c_i)
 	c_i.inv_starting_x = flr(_c_x-358)
 	c_i.cont_starting_x = flr(_c_x-237)
-	-- test contents
 	show_inventory(c_i)
 	if c_i.open then
 		display_inventory_contents(c_i)
 		display_inventory_weight(c_i)
-		if table_length(_discovered_containers) > 0 then
+		if table_length(_discovered_containers) > 0 and dc_in_range_any(_discovered_containers) then
 			display_container_contents(c_i)
 		else
 			c_i.selected_container = 1
@@ -629,8 +762,9 @@ function update_inventory(c_i)
 end
 
 :: items.lua
---[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-06-18 22:01:32",revision=2328]]
+--[[pod_format="raw",created="2024-05-30 22:52:53",modified="2024-06-23 22:01:02",revision=2863]]
 item=entity:new({
+	type = object_type.item,
 	sprite = 0,
 	name = "",
 	amount = 100,
@@ -638,7 +772,16 @@ item=entity:new({
 	item_type = nil
 })
 
+item_type = {
+	consumable = 1,
+	junk = 2,
+	useable = 3,
+	special = 4,
+	unique = 5,
+}
+
 consumable=item:new({
+	item_type = item_type.consumable,
 	consume = function(self,o,a)
 		self.amount -= a
 		o.state = "consuming"
@@ -678,36 +821,38 @@ pain_killers=consumable:new({
 	end
 })
 
-item_types = {
-	consumable = 1,
-	junk = 2,
-	useable = 3,
-	special = 4,
-	unique = 5,
-}
 :: main.lua
---[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-06-18 22:01:32",revision=4691]]
+--[[pod_format="raw",created="2024-05-03 13:26:10",modified="2024-06-23 22:01:02",revision=5286]]
 include './util.lua'
 include './character.lua'
 include './moodles.lua'
 include './inventory.lua'
 include './static_interactable.lua'
 include './containers.lua'
+include './context_menu.lua'
 
 _debug_message = ""
 
 function _init()
 	_w_w, _w_h = 480,270
+	_m_x, _m_y, _m_b, _m_w_x, _m_w_y = 0,0,0,0,0
+	_c_x = 0
+	_c_y = 0
 	_tile_size = 16
+	_buffer_time = 0.1
+	_mlb_last_pressed = nil
+	_mrb_last_pressed = nil
+	_mmb_last_pressed = nil
 	c=man:new({})
 	b=boy:new({})
 	m={moodles={}}
 	_flagged_tiles = {}
 	debug_inv = {}
 	add(debug_inv, container_slot:new({ quantity = 1, item = water_bottle:new({})}))
-	add(debug_inv, container_slot:new({ quantity = 4, item = antiseptic:new({})}))
+	add(debug_inv, container_slot:new({ quantity = 1, item = antiseptic:new({})}))
 	add(debug_inv,container_slot:new({ quantity = 1, item = pain_killers:new({})}))
 	i=inventory:new({contents = debug_inv})
+	_cm=context_menu:new({})
 	_containers = {}
 	_discovered_containers = {}
 	init_containers()
@@ -715,30 +860,47 @@ function _init()
 end
 
 function _draw()
-	_m_x, _m_y, _m_b, _m_w_x, _m_w_y = mouse()
 	_c_x = c.x + (_w_w/2)
 	_c_y = (c.y + (_w_h/2)) - 270
-	_m_x = _m_x + (_c_x - _w_w)
-	_m_y = _m_y + _c_y
-	_m_l_b=_m_b&1>0
-	_m_r_b=_m_b&2>0
-	_m_m_b=_m_b&4>0
 	cls(0)
 	camera(c.x - (_w_w/2),c.y - (_w_h/2))
 	map()
 	display_moodles(m,c)
-	temp_update_tiles(i)
+	update_interactables(i)
 	animate_character(b)
 	animate_character(c)
 	update_inventory(i)
+	draw_context_menu()
 	debug()
 end
 
 function _update()
+	update_mouse_input()
 	move_man(c)
 	move_boy(c,b)
 	scan_character_area(c)
+	execute_context_menu_option(c, 25)
 	update_character_vitals(c)
+end
+
+function update_mouse_input()
+	_m_x, _m_y, _m_b, _m_w_x, _m_w_y = mouse()
+	_m_x = _m_x + (_c_x - _w_w)
+	_m_y = _m_y + _c_y
+	if ((_m_b&1>0) and _mlb_last_pressed == nil) 
+	or ((_m_b&1>0) and time_since(_mlb_last_pressed,time(),false) > _buffer_time) then
+		_mlb_last_pressed = time()
+		_m_l_b=true
+	else
+		_m_l_b=false
+	end
+	if ((_m_b&2>0) and _mrb_last_pressed == nil) 
+	or ((_m_b&2>0) and time_since(_mrb_last_pressed,time(),false) > _buffer_time) then
+		_mrb_last_pressed = time()
+		_m_r_b=true
+	else
+		_m_r_b=false
+	end
 end
 
 function debug()
@@ -747,7 +909,7 @@ function debug()
 			.. " c_y: " .. _c_y, _c_x-480, _c_y+260)
 end
 :: moodles.lua
---[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-06-18 22:01:32",revision=3873]]
+--[[pod_format="raw",created="2024-05-07 21:40:35",modified="2024-06-23 22:01:02",revision=4390]]
 include './types.lua'
 include './util.lua'
 
@@ -926,12 +1088,12 @@ moodle_sprites={
 	thirst_4 = 147,
 }
 :: static_interactable.lua
---[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-06-18 22:01:32",revision=3184]]
+--[[pod_format="raw",created="2024-05-23 20:57:56",modified="2024-06-23 22:01:02",revision=3749]]
 include './types.lua'
 include './util.lua'
 include './containers.lua'
 
-function temp_update_tiles()
+function update_interactables()
 	local is_cont_in_range = false
 	for i,ft in pairs(_flagged_tiles) do
 		if fget_precalc(ft.flags,1) == true then
@@ -947,6 +1109,8 @@ function temp_update_tiles()
 				)
 				if _discovered_containers[container_co] == nil then
 					_discovered_containers[container_co] = container_obj
+				else
+					_discovered_containers[container_co].in_range = true
 				end
 			end
 		end
@@ -959,7 +1123,7 @@ function temp_update_tiles()
 	_flagged_tiles = {}
 end
 :: types.lua
---[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-06-18 22:01:32",revision=3792]]
+--[[pod_format="raw",created="2024-05-06 22:22:02",modified="2024-06-23 22:01:02",revision=4312]]
 class={
 	new=
 		function(self,tbl)
@@ -987,6 +1151,10 @@ container_slot=entity:new({
 	ending_y = 0,
 })
 
+object_type={
+	item=1,
+}
+
 button={
 	up=4,
 	down=8,
@@ -1006,7 +1174,7 @@ direction={
 	right = 4
 }
 :: util.lua
---[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-06-18 22:01:32",revision=3874]]
+--[[pod_format="raw",created="2024-05-03 22:03:54",modified="2024-06-23 22:01:02",revision=4412]]
 
 --object, start frame,
 --num frames, speed, flip
@@ -1046,8 +1214,12 @@ function coalesce(a, b)
 	end
 end
 
-function time_since(from, to)
-	return flr(to) - flr(from)
+function time_since(from, to, f)
+	if f == true then
+		return flr(to) - flr(from)
+	else
+		return to - from 
+	end
 end
 
 --tile sprite number, flag
@@ -1084,15 +1256,16 @@ function critically_dampened_spring(t_x, t_y, c_x, c_y)
 end
 :: .info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA1LTAzIDEzOjQ4OjQ3Iixtb2RpZmllZD0iMjAyNC0w
-Ni0xOCAyMjowMTozMyIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
-MTIiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjOTQiLHdvcmtz
-cGFjZV9pbmRleD0xfSx7bG9jYXRpb249InN0YXRpY19pbnRlcmFjdGFibGUubHVhIzQiLHdvcmtz
-cGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNvbnRhaW5lcnMubHVhIzI1Iix3b3Jrc3BhY2VfaW5k
-ZXg9MX0se2xvY2F0aW9uPSJpbnZlbnRvcnkubHVhIzE1NyIsd29ya3NwYWNlX2luZGV4PTF9LHts
-b2NhdGlvbj0iaXRlbXMubHVhIzI3Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJtb29k
-bGVzLmx1YSMxMCIsd29ya3NwYWNlX2luZGV4PTF9LHtsb2NhdGlvbj0idHlwZXMubHVhIzEiLHdv
-cmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InV0aWwubHVhIzY0Iix3b3Jrc3BhY2VfaW5kZXg9
-MX0se2xvY2F0aW9uPSJnZngvMC5nZngiLHdvcmtzcGFjZV9pbmRleD0yfSx7bG9jYXRpb249Im1h
-cC8wLm1hcCIsd29ya3NwYWNlX2luZGV4PTN9LHtsb2NhdGlvbj0ic2Z4LzAuc2Z4Iix3b3Jrc3Bh
-Y2VfaW5kZXg9NH19XV1sejQABAAAAAMAAAAwbmls
+Ni0yMyAyMjowMTowMiIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+MzkiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImNoYXJhY3Rlci5sdWEjMjQyIix3b3Jr
+c3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJzdGF0aWNfaW50ZXJhY3RhYmxlLmx1YSMxIix3b3Jr
+c3BhY2VfaW5kZXg9MX0se2xvY2F0aW9uPSJjb250YWluZXJzLmx1YSM1Iix3b3Jrc3BhY2VfaW5k
+ZXg9MX0se2xvY2F0aW9uPSJpbnZlbnRvcnkubHVhIzE5Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xv
+Y2F0aW9uPSJjb250ZXh0X21lbnUubHVhIzY3Iix3b3Jrc3BhY2VfaW5kZXg9MX0se2xvY2F0aW9u
+PSJpdGVtcy5sdWEjMjAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249Im1vb2RsZXMubHVh
+IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InR5cGVzLmx1YSMyOCIsd29ya3NwYWNl
+X2luZGV4PTF9LHtsb2NhdGlvbj0idXRpbC5sdWEjMjgiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9j
+YXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2luZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFw
+Iix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9uPSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRl
+eD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
 :: [eoc]
